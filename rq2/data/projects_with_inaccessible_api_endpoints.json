@@ -1,0 +1,3008 @@
+{
+    "definition": "Endpoints are treated as accessible only when classified as 'reachable'. Dead, uncertain, not externally verifiable, and 'exists_but_access_restricted_or_limited' endpoints are grouped as problematic/inaccessible for this simplified analysis.",
+    "endpoint_counts": {
+        "dead": 27,
+        "uncertain": 56,
+        "not_verifiable": 34,
+        "restricted_or_limited": 0,
+        "total_inaccessible": 117
+    },
+    "project_counts": {
+        "projects_with_dead_endpoints": 23,
+        "projects_with_uncertain_endpoints": 120,
+        "projects_with_not_verifiable_endpoints": 55,
+        "projects_with_restricted_or_limited_endpoints": 0,
+        "total_projects_with_at_least_one_inaccessible_endpoint": 195
+    },
+    "projects_with_at_least_one_inaccessible_endpoint": [
+        "0111jayden/more-bubbles::.",
+        "01riyachaudhary/angry_bird::.",
+        "14-dev-y/ANGRY-BIRD-GAME-BY-DEV::.",
+        "252009/sunrise-3::.",
+        "ANIRBAN123451/Project-29-32::.",
+        "AabhasAgrawal/Angry-Bird-8-::.",
+        "Aarav2612/sunrise-project-32::.",
+        "Aarush-G/TowerSiegeFinal::.",
+        "Aarushshukla/aarush12::.",
+        "AaryanShaikh/JustAnAveragePortfolio::.",
+        "Aditi-Atodaria/Tower-Siege_3::.",
+        "Adityakushwaha2006/tower-seige-3-::.",
+        "AkshatSinghal932/time-Api::.",
+        "Aksuperstart08/sunset-and-sunrise-again::.",
+        "AmbroseASC4/AmbroseASC4.github.io::pokeInvaders",
+        "Anya-Pattnaik/sunrise-sunset::.",
+        "Armaan04/prjct-33::.",
+        "ArnavGoelHitman/Tower-Siege-3-::.",
+        "ArsyAliffia/dashboard::.",
+        "Arunisprocoder/the-incredible-programmer-::.",
+        "Aujaswie/angry_birds_stage_9::.",
+        "AvirathPaliwal/backgroundImg::.",
+        "AyushiPar/tower3::.",
+        "BobTheBuilder8536/Tower_Siege_3::.",
+        "Claydameron/Class_32_Project::.",
+        "Creativeguru97/LearnP5JS::webSocket/websocket01/public",
+        "DeD2aI80/TIPE::Archives/Server/Socket/public",
+        "DeShrike/JavascriptPlayground::P5/p5/sockets/public",
+        "DeShrike/JavascriptPlayground::Recognatcher",
+        "Deepika-teacher/Project-32-TowerSiege-3::.",
+        "DropTableSanity/AnotherNodeGame::public",
+        "ErivanDev/SimpleAgarioClone::public",
+        "FH-Potsdam/mtmi-fatherhummingbird::frontend",
+        "GS2007/Tower_Siege3::.",
+        "Gliga5/ShipS-Online::.",
+        "Hamza200729/Tower-Last-Incomplete::.",
+        "KAVIDARSHINI/SnowFall-project-33::.",
+        "KAVIESH/Tower-main-3::.",
+        "KashyapPatel1574/C-47-PRO::.",
+        "Krish-Js/Angry-birds-stage-8.5-::.",
+        "KuberTheGreat/Tower__Siege3::.",
+        "LFalch/MachineLearning::vores_eksempler/output/p5-hue",
+        "LukTek/LukTekGames-V.01::Chess",
+        "MalharMS/tower-segie-3::.",
+        "MartinAlejandreChaya/TheInfected::public",
+        "Masre/Test-Project-2::public",
+        "Mayank-Mishra0110011/Adventure-Fantasy-Game::.",
+        "Moinack/Project-32-Tower-Seige-3::.",
+        "N-dot-cyber/Json-and-API-call::.",
+        "NihalManoj/Virtual-Pet-2::.",
+        "Nishanth-18/TowerSiege_3::.",
+        "PREMBISOY/c32pro::.",
+        "Prince-12345/PROJECT-32-::.",
+        "Purvasha-coder/tower-3-again::.",
+        "Ramcharan2007/TowerSiege-3::.",
+        "SNHaq/Tower_Seige3::.",
+        "SRJC-Computer-Science-Club/jumpnotes::public",
+        "Sachiko-Nakajima/websocketnew2::public",
+        "SaiSusanth/twrsiege3::.",
+        "Sanchita210507/C-33-Angry-Birds-Game-Final::.",
+        "SanjuWork/SIMPLEBUBBLESHOOTINGGAME::.",
+        "ShonWaghchoure/Tower-siege-C-32::.",
+        "Shrimietewary127/TowerSeige-Main::.",
+        "Shwinee/airline::.",
+        "Siddharth11235/Modelica-H-I-L-Tasks::Arduino/libraries/AsciiMassage/applications/Websocket Client(p5.js)",
+        "Sidh14/PHYSICS-ENGINE-GAME::.",
+        "Sj-the-gr8/Sample-32::.",
+        "Skandini06nandan/Book-Radar-Part-VI::.",
+        "Soro-just-soro/tower-topplers::Tower Topplers",
+        "Srijan2008/fdf::.",
+        "Swanandi17/Tower-Game-3::.",
+        "TARUN-BARASKAR/SUNRISE---AND--SUNSET::.",
+        "TJKvooltex/Tower-Siege-3-Final::.",
+        "Tyler-Jon-Wong/Ninja-Brawl-Online::public",
+        "VARUN2910/TOWER_SIEGE-3::.",
+        "Vedantbharadwaj/sunset1::project sun rise sunst/Sunrise-and-Sunset-Template-main",
+        "ZakHu7/logo-identifier-app::public",
+        "abhiramcoolkid/AngryBirdsFullGame::.",
+        "acaverna/deninho-avatars::frontend",
+        "adithya413/project-frozen::.",
+        "aditya00123/Class-33-debugging-and-multiple-birds::.",
+        "adityasah19/API-calls::AngryBirdsStage4-master/AngryBirdsStage4-master",
+        "aldelpech/p5js-sketch::charger-image-et-data-aynchrone",
+        "aldelpech/p5js-sketch::emporte_piece_ellipse",
+        "ambrguo/weatherapp::amber_guo_weather_iter2/app2",
+        "ambrguo/weatherapp::amber_guo_weather_iter2/hybrid",
+        "amrithpusala/Tower-Siege-1-2-and-3::.",
+        "anas813/TS3::Project-32-Tower-Siege-3",
+        "anujsachan1990/RealTimeDataShareing::public",
+        "aron002/Connect4WithWebSockets::public",
+        "atharva69/angry-birds-api-calls::.",
+        "ayasya771/my-game-4::.",
+        "bagaski/youthyouth::.",
+        "bgowtham124/drop-heaver2::.",
+        "bhavyaDas/SUNRISE-AND-SUNSETS::.",
+        "breshmashri/C32-JSON-and-API-calls::.",
+        "brokencircles/interfaceExperiements::voodooDoll greyBox/websocketP5test",
+        "butterbaby4427/ACC_FINAL::public",
+        "chrislos/CC_23SoSe::08_Node/public",
+        "chrislos/CC_23SoSe::class/08_Node/public",
+        "chrislos/CC_23SoSe::class/09_NodeforMax/public",
+        "chrislos/CC_23SoSe::class/10_BouncingTones/public",
+        "cpolk1/subway::SUBWAY",
+        "crumbly3000/Project32A::.",
+        "cvecve147/p5-js-::Examples/Intro-to-Data-APIs-JS/Intro-to-Data-APIs-JS-source/module2/exercise_08_p5_drawings/public",
+        "deedeekim/4.033::weatherapp1",
+        "deepthina/P32--Tower-Siege-3::.",
+        "dhanush178/sunrise-andsunset::.",
+        "dheerajyer2418/C32H::.",
+        "diegocruz10/cv::t1/7. Perspective Room",
+        "digitalideation/studio_uxweb2_2022::shiffman_Muster/public",
+        "elinsterz/understanding-networks::axidraw_project/not_using/axidraw_code_2/public",
+        "emraine/phone-a-lighthouse::.",
+        "eshaanx00/tower-mate::.",
+        "fannynilsson123/exploring-code::.",
+        "frank890417/TaichungDigital2017::public/project/dandelion_dcc",
+        "gaurizade/c32-project-tower-seige3::.",
+        "gokce/p5js-boilerplate::public",
+        "hanishk2006/Slingshot1-::AngryBirdsStage7-master",
+        "harji1234/towersiege3::.",
+        "hectorfan/gatech-media-bridge-reverberate::.",
+        "interactionresearchstudio/YoYoWiFiManager::examples/P5js/data",
+        "ioio-creative/prototype-2::Examples/OSC-P5-Node-SendReceive/public",
+        "ioio-creative/prototype-2::bin/data/example/openpose-web/openpose/receivesOnly",
+        "ioio-creative/prototype-2::bin/data/example/openpose-web/openpose/sendImage",
+        "ioio-creative/prototype-2::bin/data/example/openpose-web/openpose/sendWebcam/public",
+        "ioio-creative/prototype-2::bin/data/nodeGetImage/public",
+        "ioio-creative/prototype-2::bin/data/nodeGetImage/public/p5-basic",
+        "iscodd/rnd::rndfinal-v1.0/public",
+        "iscodd/rnd::rndfinal-v1.1/public",
+        "iscodd/rnd::rndtest 0416/public",
+        "ishwariv/Project-39---The-End::.",
+        "jackjury/hitclient::.",
+        "jcvar/11-Asteroids.io::asteroids.io/public",
+        "jonathan-david-martin/adveng_tank::.",
+        "jonblz/jonblz.github.io::.",
+        "joshbirch/Archive::js/Node/public",
+        "joshp-f/space-server2::public",
+        "julien-wagentrutz/tweetClimate::src",
+        "jyothirmai93/Angry-Birds-Multi-game::.",
+        "katsully/advanced-creative-coding2021::Class16-Sockets/01_DrawingWithSockets/public",
+        "katsully/advanced-creative-coding2021::Class18-Sockets-Twitter/01_SocketsAndTwitterBot/public",
+        "katsully/advanced-creative-coding2021::Class22-MLChatBot/01_ChatBotExample/public",
+        "katsully/advanced-creative-coding2021::Class25-Databases/public",
+        "kikeShepard/Proyecto-48::PROC48-V2-code-reference1-main",
+        "kmcwharter/kmcwharter.github.io::public",
+        "kwonjo/facedrawing::client",
+        "lovinmaxwell/Indoor_Navigation::p5test/p5-indoor with get",
+        "manishabagaria/shubham_tower::.",
+        "manya3368/ts-3-doubt::.",
+        "mariap9/try::public",
+        "mariocmoran/ACE2_1S23_G17::Practica 1/appWeb",
+        "megmgleason/macarena-teaching-game::.",
+        "momo200716/Tower-Siege-III::.",
+        "nopivnick/itp_networks_good-neighbor::public/admin",
+        "notchaiya/wcc-portfolio::Data Visualization2",
+        "omchheda/angrybirdscomplete::.",
+        "owenyi2/Jupiter-Io-Simulation::Io_Eclipse_Simulation_Render_Refactor_2023_08_20_03_25_21",
+        "parthnarkhede2007/Tower-finale::.",
+        "pashyanthi/try-game::tower seige 3/p5.play-boilerplate-master",
+        "peaceman252/Advanced-Javascript::public",
+        "raphaelbruno/mmo-game::public",
+        "readyletsgo/PGDV_5200_MS1::09_nytimes_api_articles",
+        "ri94909-00/PRO-C-32-SUNRISE-AND-SUNSET-::.",
+        "rodolfomagnus/outbreak::p5/public",
+        "rohinikashyap/TOWER-SIEGE-3-.::.",
+        "sakshamkumar123/c-32-pro::.",
+        "shaurya54/corona-fight::project corona/angryBirdsStage8.5-master",
+        "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/10_rekursion 2",
+        "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/p5-ableton",
+        "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/p5-faceOsc",
+        "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/p5-faceOsc-flocking",
+        "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/p5-kinect",
+        "smohiudd/Mapping-Pies::.",
+        "sonana2473/Project-B--CCLAB::.",
+        "spezialis/zauberwald::ml5_PoseNet_p5",
+        "srishtic08/Save-The-Balloon::.",
+        "studentACHU/TS-TEST::.",
+        "sushmasiram/AB_final::.",
+        "tgayas97/hitswi.github.io::diyps",
+        "thirumallesh/Tower-Siege-1-2::.",
+        "tobiasff3200/Schiffeversenken::.",
+        "tropicalcoding/websockets-color-changer::.",
+        "vaishali570/sunrise-and-sunset-1::.",
+        "vanshikaMaheshwari/Project-32_C-32::.",
+        "viztopia/doppel-code::1-p5-pose-classes-training-new",
+        "viztopia/doppel-code::2-p5-plateau-ClassifyPose-new",
+        "whitehatjrdemo1/Aditya-AngryBirds::.",
+        "whoisbma/Code-2-SP16::week-03-OOP-DOM/11-parent-child",
+        "whoisbma/Code-2-SP16::week-08-APIs/02a-wordnik",
+        "whoisbma/Code_2_SP18::week-09/w9_01_p5_dom",
+        "xh47/InteractiveGraphicsConnectingThings::client",
+        "yaffagoyal/tower-seige-3-draft::.",
+        "yasinyer/Masterproef::public",
+        "yunku12/Didida::."
+    ],
+    "projects_by_problem_type": {
+        "dead": [
+            "AmbroseASC4/AmbroseASC4.github.io::pokeInvaders",
+            "ArsyAliffia/dashboard::.",
+            "DeShrike/JavascriptPlayground::Recognatcher",
+            "Gliga5/ShipS-Online::.",
+            "LukTek/LukTekGames-V.01::Chess",
+            "Sachiko-Nakajima/websocketnew2::public",
+            "SanjuWork/SIMPLEBUBBLESHOOTINGGAME::.",
+            "Shwinee/airline::.",
+            "acaverna/deninho-avatars::frontend",
+            "anujsachan1990/RealTimeDataShareing::public",
+            "hectorfan/gatech-media-bridge-reverberate::.",
+            "jonathan-david-martin/adveng_tank::.",
+            "jonblz/jonblz.github.io::.",
+            "lovinmaxwell/Indoor_Navigation::p5test/p5-indoor with get",
+            "notchaiya/wcc-portfolio::Data Visualization2",
+            "readyletsgo/PGDV_5200_MS1::09_nytimes_api_articles",
+            "smohiudd/Mapping-Pies::.",
+            "sonana2473/Project-B--CCLAB::.",
+            "tgayas97/hitswi.github.io::diyps",
+            "tobiasff3200/Schiffeversenken::.",
+            "whoisbma/Code-2-SP16::week-03-OOP-DOM/11-parent-child",
+            "whoisbma/Code_2_SP18::week-09/w9_01_p5_dom",
+            "yunku12/Didida::."
+        ],
+        "uncertain": [
+            "0111jayden/more-bubbles::.",
+            "01riyachaudhary/angry_bird::.",
+            "14-dev-y/ANGRY-BIRD-GAME-BY-DEV::.",
+            "252009/sunrise-3::.",
+            "ANIRBAN123451/Project-29-32::.",
+            "AabhasAgrawal/Angry-Bird-8-::.",
+            "Aarav2612/sunrise-project-32::.",
+            "Aarush-G/TowerSiegeFinal::.",
+            "Aarushshukla/aarush12::.",
+            "AaryanShaikh/JustAnAveragePortfolio::.",
+            "Aditi-Atodaria/Tower-Siege_3::.",
+            "Adityakushwaha2006/tower-seige-3-::.",
+            "AkshatSinghal932/time-Api::.",
+            "Aksuperstart08/sunset-and-sunrise-again::.",
+            "Anya-Pattnaik/sunrise-sunset::.",
+            "Armaan04/prjct-33::.",
+            "ArnavGoelHitman/Tower-Siege-3-::.",
+            "Arunisprocoder/the-incredible-programmer-::.",
+            "Aujaswie/angry_birds_stage_9::.",
+            "AvirathPaliwal/backgroundImg::.",
+            "AyushiPar/tower3::.",
+            "BobTheBuilder8536/Tower_Siege_3::.",
+            "Claydameron/Class_32_Project::.",
+            "DeD2aI80/TIPE::Archives/Server/Socket/public",
+            "Deepika-teacher/Project-32-TowerSiege-3::.",
+            "GS2007/Tower_Siege3::.",
+            "Hamza200729/Tower-Last-Incomplete::.",
+            "KAVIDARSHINI/SnowFall-project-33::.",
+            "KAVIESH/Tower-main-3::.",
+            "KashyapPatel1574/C-47-PRO::.",
+            "Krish-Js/Angry-birds-stage-8.5-::.",
+            "KuberTheGreat/Tower__Siege3::.",
+            "LukTek/LukTekGames-V.01::Chess",
+            "MalharMS/tower-segie-3::.",
+            "Mayank-Mishra0110011/Adventure-Fantasy-Game::.",
+            "Moinack/Project-32-Tower-Seige-3::.",
+            "N-dot-cyber/Json-and-API-call::.",
+            "NihalManoj/Virtual-Pet-2::.",
+            "Nishanth-18/TowerSiege_3::.",
+            "PREMBISOY/c32pro::.",
+            "Prince-12345/PROJECT-32-::.",
+            "Purvasha-coder/tower-3-again::.",
+            "Ramcharan2007/TowerSiege-3::.",
+            "SNHaq/Tower_Seige3::.",
+            "SaiSusanth/twrsiege3::.",
+            "Sanchita210507/C-33-Angry-Birds-Game-Final::.",
+            "ShonWaghchoure/Tower-siege-C-32::.",
+            "Shrimietewary127/TowerSeige-Main::.",
+            "Sidh14/PHYSICS-ENGINE-GAME::.",
+            "Sj-the-gr8/Sample-32::.",
+            "Skandini06nandan/Book-Radar-Part-VI::.",
+            "Soro-just-soro/tower-topplers::Tower Topplers",
+            "Srijan2008/fdf::.",
+            "Swanandi17/Tower-Game-3::.",
+            "TARUN-BARASKAR/SUNRISE---AND--SUNSET::.",
+            "TJKvooltex/Tower-Siege-3-Final::.",
+            "VARUN2910/TOWER_SIEGE-3::.",
+            "Vedantbharadwaj/sunset1::project sun rise sunst/Sunrise-and-Sunset-Template-main",
+            "abhiramcoolkid/AngryBirdsFullGame::.",
+            "adithya413/project-frozen::.",
+            "aditya00123/Class-33-debugging-and-multiple-birds::.",
+            "adityasah19/API-calls::AngryBirdsStage4-master/AngryBirdsStage4-master",
+            "aldelpech/p5js-sketch::charger-image-et-data-aynchrone",
+            "aldelpech/p5js-sketch::emporte_piece_ellipse",
+            "ambrguo/weatherapp::amber_guo_weather_iter2/app2",
+            "ambrguo/weatherapp::amber_guo_weather_iter2/hybrid",
+            "amrithpusala/Tower-Siege-1-2-and-3::.",
+            "anas813/TS3::Project-32-Tower-Siege-3",
+            "atharva69/angry-birds-api-calls::.",
+            "ayasya771/my-game-4::.",
+            "bagaski/youthyouth::.",
+            "bgowtham124/drop-heaver2::.",
+            "bhavyaDas/SUNRISE-AND-SUNSETS::.",
+            "breshmashri/C32-JSON-and-API-calls::.",
+            "cpolk1/subway::SUBWAY",
+            "crumbly3000/Project32A::.",
+            "deedeekim/4.033::weatherapp1",
+            "deepthina/P32--Tower-Siege-3::.",
+            "dhanush178/sunrise-andsunset::.",
+            "dheerajyer2418/C32H::.",
+            "diegocruz10/cv::t1/7. Perspective Room",
+            "emraine/phone-a-lighthouse::.",
+            "eshaanx00/tower-mate::.",
+            "fannynilsson123/exploring-code::.",
+            "frank890417/TaichungDigital2017::public/project/dandelion_dcc",
+            "gaurizade/c32-project-tower-seige3::.",
+            "hanishk2006/Slingshot1-::AngryBirdsStage7-master",
+            "harji1234/towersiege3::.",
+            "ishwariv/Project-39---The-End::.",
+            "jackjury/hitclient::.",
+            "julien-wagentrutz/tweetClimate::src",
+            "jyothirmai93/Angry-Birds-Multi-game::.",
+            "kikeShepard/Proyecto-48::PROC48-V2-code-reference1-main",
+            "manishabagaria/shubham_tower::.",
+            "manya3368/ts-3-doubt::.",
+            "megmgleason/macarena-teaching-game::.",
+            "momo200716/Tower-Siege-III::.",
+            "omchheda/angrybirdscomplete::.",
+            "owenyi2/Jupiter-Io-Simulation::Io_Eclipse_Simulation_Render_Refactor_2023_08_20_03_25_21",
+            "parthnarkhede2007/Tower-finale::.",
+            "pashyanthi/try-game::tower seige 3/p5.play-boilerplate-master",
+            "ri94909-00/PRO-C-32-SUNRISE-AND-SUNSET-::.",
+            "rodolfomagnus/outbreak::p5/public",
+            "rohinikashyap/TOWER-SIEGE-3-.::.",
+            "sakshamkumar123/c-32-pro::.",
+            "shaurya54/corona-fight::project corona/angryBirdsStage8.5-master",
+            "smohiudd/Mapping-Pies::.",
+            "sonana2473/Project-B--CCLAB::.",
+            "spezialis/zauberwald::ml5_PoseNet_p5",
+            "srishtic08/Save-The-Balloon::.",
+            "studentACHU/TS-TEST::.",
+            "sushmasiram/AB_final::.",
+            "thirumallesh/Tower-Siege-1-2::.",
+            "vaishali570/sunrise-and-sunset-1::.",
+            "vanshikaMaheshwari/Project-32_C-32::.",
+            "viztopia/doppel-code::1-p5-pose-classes-training-new",
+            "viztopia/doppel-code::2-p5-plateau-ClassifyPose-new",
+            "whitehatjrdemo1/Aditya-AngryBirds::.",
+            "whoisbma/Code-2-SP16::week-08-APIs/02a-wordnik",
+            "yaffagoyal/tower-seige-3-draft::."
+        ],
+        "not_verifiable": [
+            "Creativeguru97/LearnP5JS::webSocket/websocket01/public",
+            "DeShrike/JavascriptPlayground::P5/p5/sockets/public",
+            "DropTableSanity/AnotherNodeGame::public",
+            "ErivanDev/SimpleAgarioClone::public",
+            "FH-Potsdam/mtmi-fatherhummingbird::frontend",
+            "LFalch/MachineLearning::vores_eksempler/output/p5-hue",
+            "MartinAlejandreChaya/TheInfected::public",
+            "Masre/Test-Project-2::public",
+            "SRJC-Computer-Science-Club/jumpnotes::public",
+            "Siddharth11235/Modelica-H-I-L-Tasks::Arduino/libraries/AsciiMassage/applications/Websocket Client(p5.js)",
+            "Tyler-Jon-Wong/Ninja-Brawl-Online::public",
+            "ZakHu7/logo-identifier-app::public",
+            "aron002/Connect4WithWebSockets::public",
+            "brokencircles/interfaceExperiements::voodooDoll greyBox/websocketP5test",
+            "butterbaby4427/ACC_FINAL::public",
+            "chrislos/CC_23SoSe::08_Node/public",
+            "chrislos/CC_23SoSe::class/08_Node/public",
+            "chrislos/CC_23SoSe::class/09_NodeforMax/public",
+            "chrislos/CC_23SoSe::class/10_BouncingTones/public",
+            "cvecve147/p5-js-::Examples/Intro-to-Data-APIs-JS/Intro-to-Data-APIs-JS-source/module2/exercise_08_p5_drawings/public",
+            "digitalideation/studio_uxweb2_2022::shiffman_Muster/public",
+            "elinsterz/understanding-networks::axidraw_project/not_using/axidraw_code_2/public",
+            "gokce/p5js-boilerplate::public",
+            "interactionresearchstudio/YoYoWiFiManager::examples/P5js/data",
+            "ioio-creative/prototype-2::Examples/OSC-P5-Node-SendReceive/public",
+            "ioio-creative/prototype-2::bin/data/example/openpose-web/openpose/receivesOnly",
+            "ioio-creative/prototype-2::bin/data/example/openpose-web/openpose/sendImage",
+            "ioio-creative/prototype-2::bin/data/example/openpose-web/openpose/sendWebcam/public",
+            "ioio-creative/prototype-2::bin/data/nodeGetImage/public",
+            "ioio-creative/prototype-2::bin/data/nodeGetImage/public/p5-basic",
+            "iscodd/rnd::rndfinal-v1.0/public",
+            "iscodd/rnd::rndfinal-v1.1/public",
+            "iscodd/rnd::rndtest 0416/public",
+            "jcvar/11-Asteroids.io::asteroids.io/public",
+            "joshbirch/Archive::js/Node/public",
+            "joshp-f/space-server2::public",
+            "katsully/advanced-creative-coding2021::Class16-Sockets/01_DrawingWithSockets/public",
+            "katsully/advanced-creative-coding2021::Class18-Sockets-Twitter/01_SocketsAndTwitterBot/public",
+            "katsully/advanced-creative-coding2021::Class22-MLChatBot/01_ChatBotExample/public",
+            "katsully/advanced-creative-coding2021::Class25-Databases/public",
+            "kmcwharter/kmcwharter.github.io::public",
+            "kwonjo/facedrawing::client",
+            "mariap9/try::public",
+            "mariocmoran/ACE2_1S23_G17::Practica 1/appWeb",
+            "nopivnick/itp_networks_good-neighbor::public/admin",
+            "peaceman252/Advanced-Javascript::public",
+            "raphaelbruno/mmo-game::public",
+            "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/10_rekursion 2",
+            "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/p5-ableton",
+            "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/p5-faceOsc",
+            "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/p5-faceOsc-flocking",
+            "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/p5-kinect",
+            "tropicalcoding/websockets-color-changer::.",
+            "xh47/InteractiveGraphicsConnectingThings::client",
+            "yasinyer/Masterproef::public"
+        ],
+        "restricted_or_limited": []
+    },
+    "inaccessible_endpoints": [
+        {
+            "endpoint": "http://artforum.com/uploads/upload.001/id25455/picksimg_splash.jpg",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "whoisbma/Code-2-SP16::week-03-OOP-DOM/11-parent-child"
+            ]
+        },
+        {
+            "endpoint": "http://fa05d83f9b7f.eu.ngrok.io/",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "Gliga5/ShipS-Online::."
+            ]
+        },
+        {
+            "endpoint": "http://lamborghini.herokuapp.com/",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "anujsachan1990/RealTimeDataShareing::public"
+            ]
+        },
+        {
+            "endpoint": "http://wisdomkraft.com/wisdomkraft.com/prudence/Indoor_nav/rssi_data_to_json.php",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "lovinmaxwell/Indoor_Navigation::p5test/p5-indoor with get"
+            ]
+        },
+        {
+            "endpoint": "https://api.nytimes.com/svc/search/v2/articlesearch.jsonp?callback=svc_search_v2_articlesearch&api-key=41553f34c5234f16b68507c8ab48160a&q=Trees",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "readyletsgo/PGDV_5200_MS1::09_nytimes_api_articles"
+            ]
+        },
+        {
+            "endpoint": "https://api.openaq.org/v2/measurements?location_id=275642&parameter=um100&parameter=pm25&parameter=um025&parameter=pm1&parameter=pm10&parameter=um010&date_from=2023-02-10T00:00:00Z&date_to=2023-02-11T00:00:00Z&limit=1000",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "notchaiya/wcc-portfolio::Data Visualization2"
+            ]
+        },
+        {
+            "endpoint": "https://bot-so-i-am-cool.herokuapp.com/",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "Shwinee/airline::."
+            ]
+        },
+        {
+            "endpoint": "https://cocreative3.herokuapp.com/",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "Sachiko-Nakajima/websocketnew2::public"
+            ]
+        },
+        {
+            "endpoint": "https://data.calgary.ca/resource/qfna-5kbg.json?$select=name,comm_code,sing_famly,duplex,multi_plex,apartment,town_house,manuf_home,conv_struc,comunl_hse",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "smohiudd/Mapping-Pies::."
+            ]
+        },
+        {
+            "endpoint": "https://deninhoavatars-backend.herokuapp.com/",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "acaverna/deninho-avatars::frontend"
+            ]
+        },
+        {
+            "endpoint": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQNbQfDT8PTu_H0oUPd9nYSOVTgwD9GMDnqNmjz34RtbqPjrFc_WdWj7LljmD1USe_wKF-K5cQPf8xU/pub?output=csv",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "ArsyAliffia/dashboard::."
+            ]
+        },
+        {
+            "endpoint": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRAJzSZF_ucL_xSIjc8-pRxdDVbwF-40EjgGfa3D_Y47csUndfX__85Lwb7CTZoth_WpDEZnW2bpxLe/pub?gid=415352174&single=true&output=csv",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "yunku12/Didida::."
+            ]
+        },
+        {
+            "endpoint": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRGHwOAkI00DcpXwrbPxAW23q3vi2CugjVQFZXCoZJwO5eZ32fLqdfcj2MsRx375IgTJ5un5hcAlOQ2/pub?output=csv",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "ArsyAliffia/dashboard::."
+            ]
+        },
+        {
+            "endpoint": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSaJAKhxL6dzNRaCmFGc0BFYcITmGs5aD0KxKnMtODVsWkEStyFjqWTVJxwPOXkgenRBI97Wcmyqiaf/pub?output=csv",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "ArsyAliffia/dashboard::."
+            ]
+        },
+        {
+            "endpoint": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTpx5LIC6qZfHug6FoKrAvieSp-E_rTDjcgbXkxX-GhgOW8b_SnUUeQEZ55qDEABmJbrJCeVQxuom7J/pub?output=csv",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "ArsyAliffia/dashboard::."
+            ]
+        },
+        {
+            "endpoint": "https://dog.ceo/api/img/stbernard/n02109525_3388.jpg",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "whoisbma/Code_2_SP18::week-09/w9_01_p5_dom"
+            ]
+        },
+        {
+            "endpoint": "https://hitswi.github.io/images/rabbit2.png",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "tgayas97/hitswi.github.io::diyps"
+            ]
+        },
+        {
+            "endpoint": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1912b050-3675-4394-a3d1-d0b4cb43ae0a/ddeq42t-e150d2ad-e6cb-46e6-9a4e-a908d9a170bb.png/v1/fill/w_1280,h_640,q_80,strp/saturn_texture_map__fictional_rework__by_magentameteorite_ddeq42t-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvMTkxMmIwNTAtMzY3NS00Mzk0LWEzZDEtZDBiNGNiNDNhZTBhXC9kZGVxNDJ0LWUxNTBkMmFkLWU2Y2ItNDZlNi05YTRlLWE5MDhkOWExNzBiYi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.LGF7FBdknIVE7_swXfEFe__n-IF6D2IXNWk4fjPE8Oo",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "sonana2473/Project-B--CCLAB::."
+            ]
+        },
+        {
+            "endpoint": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/58d3c051-62a0-4471-818b-b9b92759d6b6/db6is8m-065c1dbf-d125-4729-a015-f79553c16bf9.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU4ZDNjMDUxLTYyYTAtNDQ3MS04MThiLWI5YjkyNzU5ZDZiNlwvZGI2aXM4bS0wNjVjMWRiZi1kMTI1LTQ3MjktYTAxNS1mNzk1NTNjMTZiZjkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SNbFKk_oSqXR_g0K2OquQKU33PDgktgkNc40-6Pjhqo",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "sonana2473/Project-B--CCLAB::."
+            ]
+        },
+        {
+            "endpoint": "https://noah-and-shachar.glitch.me/",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "jonathan-david-martin/adveng_tank::."
+            ]
+        },
+        {
+            "endpoint": "https://peopleshub.org/wp-content/uploads/2018/04/person-icon-white.png",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "LukTek/LukTekGames-V.01::Chess"
+            ]
+        },
+        {
+            "endpoint": "https://raw.githubusercontent.com/molleindustria/p5.play/master/examples/assets/asteroids_ship0001.png",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "SanjuWork/SIMPLEBUBBLESHOOTINGGAME::."
+            ]
+        },
+        {
+            "endpoint": "https://twitter-proxy.glitch.me/tweet",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "jonblz/jonblz.github.io::."
+            ]
+        },
+        {
+            "endpoint": "https://vignette2.wikia.nocookie.net/ashsencounters/images/6/62/Ash_holding_a_Pokeball_transparent.gif/revision/latest?cb=20140701175439",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "AmbroseASC4/AmbroseASC4.github.io::pokeInvaders"
+            ]
+        },
+        {
+            "endpoint": "https://westeurope.api.cognitive.microsoft.com/customvision/v3.0/Prediction/200e8a7c-9c54-4f79-a8e3-3f2b3b70280e/classify/iterations/image-recognatcher-v2/image",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "DeShrike/JavascriptPlayground::Recognatcher"
+            ]
+        },
+        {
+            "endpoint": "ws://schiffeversenken.ddns.net:1337/",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "tobiasff3200/Schiffeversenken::."
+            ]
+        },
+        {
+            "endpoint": "wss://hectorfan-websocket-server-echo.glitch.me/",
+            "group": "dead",
+            "availability": null,
+            "project_ids": [
+                "hectorfan/gatech-media-bridge-reverberate::."
+            ]
+        },
+        {
+            "endpoint": "http://77.130.132.25:3010/",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "DeD2aI80/TIPE::Archives/Server/Socket/public"
+            ]
+        },
+        {
+            "endpoint": "http://a/b?a=1&b=2&c=3",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "viztopia/doppel-code::1-p5-pose-classes-training-new",
+                "viztopia/doppel-code::2-p5-plateau-ClassifyPose-new"
+            ]
+        },
+        {
+            "endpoint": "http://api.wordnik.com/v4/word.json//relatedWords?useCanonical=false&limitPerRelationshipType=25&api_key={your%20key%20here}",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "whoisbma/Code-2-SP16::week-08-APIs/02a-wordnik"
+            ]
+        },
+        {
+            "endpoint": "http://huffparanormal.com/wp-content/uploads/2016/03/demon_attack_horror_people_fire_fantasy_hd-wallpaper-1585418.jpg",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "Mayank-Mishra0110011/Adventure-Fantasy-Game::."
+            ]
+        },
+        {
+            "endpoint": "http://outbreakwarfare.com/p5:3000",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "rodolfomagnus/outbreak::p5/public"
+            ]
+        },
+        {
+            "endpoint": "http://worldclockapi.com/api/json/est/now",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "harji1234/towersiege3::.",
+                "ishwariv/Project-39---The-End::."
+            ]
+        },
+        {
+            "endpoint": "http://worldtimeapi.org/api/timezone/America/Chicago",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "Krish-Js/Angry-birds-stage-8.5-::."
+            ]
+        },
+        {
+            "endpoint": "http://worldtimeapi.org/api/timezone/America/Mexico_City",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "kikeShepard/Proyecto-48::PROC48-V2-code-reference1-main"
+            ]
+        },
+        {
+            "endpoint": "http://worldtimeapi.org/api/timezone/America/New_York",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "Soro-just-soro/tower-topplers::Tower Topplers"
+            ]
+        },
+        {
+            "endpoint": "http://worldtimeapi.org/api/timezone/asia/kolkata",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "Aarav2612/sunrise-project-32::."
+            ]
+        },
+        {
+            "endpoint": "http://worldtimeapi.org/api/timezone/Asia/kolkata",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "Aarushshukla/aarush12::.",
+                "breshmashri/C32-JSON-and-API-calls::.",
+                "dheerajyer2418/C32H::.",
+                "studentACHU/TS-TEST::."
+            ]
+        },
+        {
+            "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "0111jayden/more-bubbles::.",
+                "01riyachaudhary/angry_bird::.",
+                "14-dev-y/ANGRY-BIRD-GAME-BY-DEV::.",
+                "252009/sunrise-3::.",
+                "ANIRBAN123451/Project-29-32::.",
+                "AabhasAgrawal/Angry-Bird-8-::.",
+                "Aarush-G/TowerSiegeFinal::.",
+                "Aditi-Atodaria/Tower-Siege_3::.",
+                "Adityakushwaha2006/tower-seige-3-::.",
+                "AkshatSinghal932/time-Api::.",
+                "Aksuperstart08/sunset-and-sunrise-again::.",
+                "Armaan04/prjct-33::.",
+                "ArnavGoelHitman/Tower-Siege-3-::.",
+                "Arunisprocoder/the-incredible-programmer-::.",
+                "Aujaswie/angry_birds_stage_9::.",
+                "AvirathPaliwal/backgroundImg::.",
+                "BobTheBuilder8536/Tower_Siege_3::.",
+                "Claydameron/Class_32_Project::.",
+                "GS2007/Tower_Siege3::.",
+                "Hamza200729/Tower-Last-Incomplete::.",
+                "KAVIDARSHINI/SnowFall-project-33::.",
+                "KAVIESH/Tower-main-3::.",
+                "KuberTheGreat/Tower__Siege3::.",
+                "MalharMS/tower-segie-3::.",
+                "Nishanth-18/TowerSiege_3::.",
+                "PREMBISOY/c32pro::.",
+                "Prince-12345/PROJECT-32-::.",
+                "Purvasha-coder/tower-3-again::.",
+                "SaiSusanth/twrsiege3::.",
+                "Sanchita210507/C-33-Angry-Birds-Game-Final::.",
+                "Shrimietewary127/TowerSeige-Main::.",
+                "Sidh14/PHYSICS-ENGINE-GAME::.",
+                "Sj-the-gr8/Sample-32::.",
+                "Skandini06nandan/Book-Radar-Part-VI::.",
+                "Srijan2008/fdf::.",
+                "TJKvooltex/Tower-Siege-3-Final::.",
+                "Vedantbharadwaj/sunset1::project sun rise sunst/Sunrise-and-Sunset-Template-main",
+                "abhiramcoolkid/AngryBirdsFullGame::.",
+                "adithya413/project-frozen::.",
+                "aditya00123/Class-33-debugging-and-multiple-birds::.",
+                "atharva69/angry-birds-api-calls::.",
+                "ayasya771/my-game-4::.",
+                "bgowtham124/drop-heaver2::.",
+                "bhavyaDas/SUNRISE-AND-SUNSETS::.",
+                "eshaanx00/tower-mate::.",
+                "gaurizade/c32-project-tower-seige3::.",
+                "jyothirmai93/Angry-Birds-Multi-game::.",
+                "manishabagaria/shubham_tower::.",
+                "manya3368/ts-3-doubt::.",
+                "momo200716/Tower-Siege-III::.",
+                "omchheda/angrybirdscomplete::.",
+                "parthnarkhede2007/Tower-finale::.",
+                "ri94909-00/PRO-C-32-SUNRISE-AND-SUNSET-::.",
+                "rohinikashyap/TOWER-SIEGE-3-.::.",
+                "sakshamkumar123/c-32-pro::.",
+                "shaurya54/corona-fight::project corona/angryBirdsStage8.5-master",
+                "thirumallesh/Tower-Siege-1-2::.",
+                "whitehatjrdemo1/Aditya-AngryBirds::.",
+                "yaffagoyal/tower-seige-3-draft::."
+            ]
+        },
+        {
+            "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Tokyo",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "N-dot-cyber/Json-and-API-call::.",
+                "hanishk2006/Slingshot1-::AngryBirdsStage7-master"
+            ]
+        },
+        {
+            "endpoint": "http://worldtimeapi.org/api/timezone/est",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "AyushiPar/tower3::."
+            ]
+        },
+        {
+            "endpoint": "http://worldtimeapi.org/api/timezone/EST",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "amrithpusala/Tower-Siege-1-2-and-3::."
+            ]
+        },
+        {
+            "endpoint": "https://api.countapi.xyz/update/aaryan-shaikh/portfolio/?amount=1",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "AaryanShaikh/JustAnAveragePortfolio::."
+            ]
+        },
+        {
+            "endpoint": "https://api.covid19api.com/summary",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "fannynilsson123/exploring-code::."
+            ]
+        },
+        {
+            "endpoint": "https://api.darksky.net/forecast/687d436565118eaf81a39a9ac4b34601/42.361936,%20-71.097309",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "deedeekim/4.033::weatherapp1"
+            ]
+        },
+        {
+            "endpoint": "https://api.forecast.io/forecast/608cafddfa3b4ce745e5d3142925597b/21.1606,-86.8475",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "ambrguo/weatherapp::amber_guo_weather_iter2/hybrid"
+            ]
+        },
+        {
+            "endpoint": "https://api.forecast.io/forecast/608cafddfa3b4ce745e5d3142925597b/42.3601,-71.0589",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "ambrguo/weatherapp::amber_guo_weather_iter2/app2"
+            ]
+        },
+        {
+            "endpoint": "https://cdn.glitch.com/c3daddd3-de7a-49cd-bbfa-e749378a8fbf%2Fanimals3.png?v=1612548365370",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "emraine/phone-a-lighthouse::."
+            ]
+        },
+        {
+            "endpoint": "https://cdn.glitch.com/c3daddd3-de7a-49cd-bbfa-e749378a8fbf%2Flighthouse.png?v=1612566005585",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "emraine/phone-a-lighthouse::."
+            ]
+        },
+        {
+            "endpoint": "https://cdn.glitch.com/c3daddd3-de7a-49cd-bbfa-e749378a8fbf%2Ftilesheet_complete.png?v=1612566704408",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "emraine/phone-a-lighthouse::."
+            ]
+        },
+        {
+            "endpoint": "https://cdn.glitch.com/d14afeca-9a45-4625-b8a2-6252656254ca%2FLos%20Del%20Rio%20-%20Macarena%20(Bayside%20Boys%20Remix).mp3?v=1595973684253",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "megmgleason/macarena-teaching-game::."
+            ]
+        },
+        {
+            "endpoint": "https://data.calgary.ca/resource/kzbm-mn66.json?$select=name,comm_code,location",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "smohiudd/Mapping-Pies::."
+            ]
+        },
+        {
+            "endpoint": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTgx1xu3f2La3t03gbxOkV5ndUooPOGTZ1gl7vlQqVuX3XntBQI0beR4E_HHfNG0ssUMNQ4fDveI6UF/pub?gid=1285170362&single=true&output=csv",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "owenyi2/Jupiter-Io-Simulation::Io_Eclipse_Simulation_Render_Refactor_2023_08_20_03_25_21"
+            ]
+        },
+        {
+            "endpoint": "https://firetweetapi.julienwagentrutz.com/country",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "julien-wagentrutz/tweetClimate::src"
+            ]
+        },
+        {
+            "endpoint": "https://hitcounterserver.herokuapp.com/count",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "jackjury/hitclient::."
+            ]
+        },
+        {
+            "endpoint": "https://image.flaticon.com/icons/png/128/10/10525.png",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "diegocruz10/cv::t1/7. Perspective Room"
+            ]
+        },
+        {
+            "endpoint": "https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text%3D%22taichung%2C%20tw%22)&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "frank890417/TaichungDigital2017::public/project/dandelion_dcc"
+            ]
+        },
+        {
+            "endpoint": "https://requestreduce.org/images/car-clipart-animated-16.png",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "cpolk1/subway::SUBWAY"
+            ]
+        },
+        {
+            "endpoint": "https://source.unsplash.com/random",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "bagaski/youthyouth::."
+            ]
+        },
+        {
+            "endpoint": "https://source.unsplash.com/random/1280x640",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "aldelpech/p5js-sketch::emporte_piece_ellipse"
+            ]
+        },
+        {
+            "endpoint": "https://source.unsplash.com/random/512x302",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "aldelpech/p5js-sketch::charger-image-et-data-aynchrone"
+            ]
+        },
+        {
+            "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/45px-Chess_qlt45.svg.png",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "LukTek/LukTekGames-V.01::Chess"
+            ]
+        },
+        {
+            "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/45px-Chess_klt45.svg.png",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "LukTek/LukTekGames-V.01::Chess"
+            ]
+        },
+        {
+            "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/45px-Chess_plt45.svg.png",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "LukTek/LukTekGames-V.01::Chess"
+            ]
+        },
+        {
+            "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/45px-Chess_qdt45.svg.png",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "LukTek/LukTekGames-V.01::Chess"
+            ]
+        },
+        {
+            "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/45px-Chess_nlt45.svg.png",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "LukTek/LukTekGames-V.01::Chess"
+            ]
+        },
+        {
+            "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/OOjs_UI_icon_robot.svg/640px-OOjs_UI_icon_robot.svg.png",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "LukTek/LukTekGames-V.01::Chess"
+            ]
+        },
+        {
+            "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/45px-Chess_rlt45.svg.png",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "LukTek/LukTekGames-V.01::Chess"
+            ]
+        },
+        {
+            "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Solarsystemscope_texture_2k_mercury.jpg/640px-Solarsystemscope_texture_2k_mercury.jpg",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "sonana2473/Project-B--CCLAB::."
+            ]
+        },
+        {
+            "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/45px-Chess_bdt45.svg.png",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "LukTek/LukTekGames-V.01::Chess"
+            ]
+        },
+        {
+            "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/45px-Chess_blt45.svg.png",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "LukTek/LukTekGames-V.01::Chess"
+            ]
+        },
+        {
+            "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/45px-Chess_pdt45.svg.png",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "LukTek/LukTekGames-V.01::Chess"
+            ]
+        },
+        {
+            "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/45px-Chess_ndt45.svg.png",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "LukTek/LukTekGames-V.01::Chess"
+            ]
+        },
+        {
+            "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/45px-Chess_kdt45.svg.png",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "LukTek/LukTekGames-V.01::Chess"
+            ]
+        },
+        {
+            "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/45px-Chess_rdt45.svg.png",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "LukTek/LukTekGames-V.01::Chess"
+            ]
+        },
+        {
+            "endpoint": "https://worldclockapi.com/api/json/est/now",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "sushmasiram/AB_final::."
+            ]
+        },
+        {
+            "endpoint": "https://worldtimeapi.org/api/timezone/America/Adak",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "adityasah19/API-calls::AngryBirdsStage4-master/AngryBirdsStage4-master"
+            ]
+        },
+        {
+            "endpoint": "https://worldtimeapi.org/api/timezone/America/Los_Angeles",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "NihalManoj/Virtual-Pet-2::."
+            ]
+        },
+        {
+            "endpoint": "https://worldtimeapi.org/api/timezone/America/New_York",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "crumbly3000/Project32A::."
+            ]
+        },
+        {
+            "endpoint": "https://worldtimeapi.org/api/timezone/America/Texas",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "SNHaq/Tower_Seige3::."
+            ]
+        },
+        {
+            "endpoint": "https://worldtimeapi.org/api/timezone/Asia/Calcutta",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "Swanandi17/Tower-Game-3::."
+            ]
+        },
+        {
+            "endpoint": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "Anya-Pattnaik/sunrise-sunset::.",
+                "Deepika-teacher/Project-32-TowerSiege-3::.",
+                "KashyapPatel1574/C-47-PRO::.",
+                "Moinack/Project-32-Tower-Seige-3::.",
+                "Ramcharan2007/TowerSiege-3::.",
+                "ShonWaghchoure/Tower-siege-C-32::.",
+                "TARUN-BARASKAR/SUNRISE---AND--SUNSET::.",
+                "VARUN2910/TOWER_SIEGE-3::.",
+                "anas813/TS3::Project-32-Tower-Siege-3",
+                "deepthina/P32--Tower-Siege-3::.",
+                "dhanush178/sunrise-andsunset::.",
+                "pashyanthi/try-game::tower seige 3/p5.play-boilerplate-master",
+                "srishtic08/Save-The-Balloon::.",
+                "vaishali570/sunrise-and-sunset-1::.",
+                "vanshikaMaheshwari/Project-32_C-32::."
+            ]
+        },
+        {
+            "endpoint": "https://www.askideas.com/media/14/Smile-Clipart.jpg",
+            "group": "uncertain",
+            "availability": null,
+            "project_ids": [
+                "spezialis/zauberwald::ml5_PoseNet_p5"
+            ]
+        },
+        {
+            "endpoint": "/",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "Masre/Test-Project-2::public"
+            ]
+        },
+        {
+            "endpoint": "/?c=d",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "Masre/Test-Project-2::public"
+            ]
+        },
+        {
+            "endpoint": "/?woot",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "Masre/Test-Project-2::public"
+            ]
+        },
+        {
+            "endpoint": "/abc",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "Masre/Test-Project-2::public"
+            ]
+        },
+        {
+            "endpoint": "/abc?b=c&d=e",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "Masre/Test-Project-2::public"
+            ]
+        },
+        {
+            "endpoint": "/api",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "cvecve147/p5-js-::Examples/Intro-to-Data-APIs-JS/Intro-to-Data-APIs-JS-source/module2/exercise_08_p5_drawings/public"
+            ]
+        },
+        {
+            "endpoint": "/banana",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "butterbaby4427/ACC_FINAL::public"
+            ]
+        },
+        {
+            "endpoint": "/canvasclicked",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "peaceman252/Advanced-Javascript::public"
+            ]
+        },
+        {
+            "endpoint": "/foo",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "Masre/Test-Project-2::public"
+            ]
+        },
+        {
+            "endpoint": "/highscore",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "peaceman252/Advanced-Javascript::public"
+            ]
+        },
+        {
+            "endpoint": "/invalid",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "Masre/Test-Project-2::public"
+            ]
+        },
+        {
+            "endpoint": "/leaderboard",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "peaceman252/Advanced-Javascript::public"
+            ]
+        },
+        {
+            "endpoint": "/no",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "Masre/Test-Project-2::public"
+            ]
+        },
+        {
+            "endpoint": "/save/image",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "gokce/p5js-boilerplate::public"
+            ]
+        },
+        {
+            "endpoint": "/yoyo/active",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "interactionresearchstudio/YoYoWiFiManager::examples/P5js/data"
+            ]
+        },
+        {
+            "endpoint": "http://0.0.0.0:3000/",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "jcvar/11-Asteroids.io::asteroids.io/public"
+            ]
+        },
+        {
+            "endpoint": "http://10.23.10.87:3000/",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "iscodd/rnd::rndfinal-v1.0/public"
+            ]
+        },
+        {
+            "endpoint": "http://10.23.11.246:8080/playState/1",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "nopivnick/itp_networks_good-neighbor::public/admin"
+            ]
+        },
+        {
+            "endpoint": "http://10.235.8.10:3000/",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "chrislos/CC_23SoSe::class/08_Node/public"
+            ]
+        },
+        {
+            "endpoint": "http://127.0.0.1:33200/query",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "ioio-creative/prototype-2::Examples/OSC-P5-Node-SendReceive/public",
+                "ioio-creative/prototype-2::bin/data/example/openpose-web/openpose/sendImage",
+                "ioio-creative/prototype-2::bin/data/example/openpose-web/openpose/sendWebcam/public",
+                "ioio-creative/prototype-2::bin/data/nodeGetImage/public"
+            ]
+        },
+        {
+            "endpoint": "http://127.0.0.1:3333/",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "ioio-creative/prototype-2::bin/data/example/openpose-web/openpose/receivesOnly"
+            ]
+        },
+        {
+            "endpoint": "http://127.0.0.1:5000/Datos",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "mariocmoran/ACE2_1S23_G17::Practica 1/appWeb"
+            ]
+        },
+        {
+            "endpoint": "http://127.0.0.1:5000/UltimoDato",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "mariocmoran/ACE2_1S23_G17::Practica 1/appWeb"
+            ]
+        },
+        {
+            "endpoint": "http://127.0.0.1:8081/",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "LFalch/MachineLearning::vores_eksempler/output/p5-hue",
+                "ioio-creative/prototype-2::Examples/OSC-P5-Node-SendReceive/public",
+                "ioio-creative/prototype-2::bin/data/nodeGetImage/public",
+                "ioio-creative/prototype-2::bin/data/nodeGetImage/public/p5-basic",
+                "kwonjo/facedrawing::client",
+                "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/10_rekursion 2",
+                "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/p5-ableton",
+                "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/p5-faceOsc",
+                "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/p5-faceOsc-flocking",
+                "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/p5-kinect",
+                "xh47/InteractiveGraphicsConnectingThings::client"
+            ]
+        },
+        {
+            "endpoint": "http://192.168.1.28:3000/",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "MartinAlejandreChaya/TheInfected::public"
+            ]
+        },
+        {
+            "endpoint": "http://localhost:3000/",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "Creativeguru97/LearnP5JS::webSocket/websocket01/public",
+                "DeShrike/JavascriptPlayground::P5/p5/sockets/public",
+                "DropTableSanity/AnotherNodeGame::public",
+                "ErivanDev/SimpleAgarioClone::public",
+                "Tyler-Jon-Wong/Ninja-Brawl-Online::public",
+                "ZakHu7/logo-identifier-app::public",
+                "aron002/Connect4WithWebSockets::public",
+                "chrislos/CC_23SoSe::08_Node/public",
+                "chrislos/CC_23SoSe::class/09_NodeforMax/public",
+                "chrislos/CC_23SoSe::class/10_BouncingTones/public",
+                "digitalideation/studio_uxweb2_2022::shiffman_Muster/public",
+                "iscodd/rnd::rndtest 0416/public",
+                "joshbirch/Archive::js/Node/public",
+                "katsully/advanced-creative-coding2021::Class16-Sockets/01_DrawingWithSockets/public",
+                "katsully/advanced-creative-coding2021::Class18-Sockets-Twitter/01_SocketsAndTwitterBot/public",
+                "katsully/advanced-creative-coding2021::Class22-MLChatBot/01_ChatBotExample/public",
+                "katsully/advanced-creative-coding2021::Class25-Databases/public",
+                "kmcwharter/kmcwharter.github.io::public",
+                "mariap9/try::public",
+                "raphaelbruno/mmo-game::public",
+                "tropicalcoding/websockets-color-changer::.",
+                "yasinyer/Masterproef::public"
+            ]
+        },
+        {
+            "endpoint": "http://localhost:3001/",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "elinsterz/understanding-networks::axidraw_project/not_using/axidraw_code_2/public"
+            ]
+        },
+        {
+            "endpoint": "http://localhost/",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "joshp-f/space-server2::public"
+            ]
+        },
+        {
+            "endpoint": "https://localhost/",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "SRJC-Computer-Science-Club/jumpnotes::public"
+            ]
+        },
+        {
+            "endpoint": "localhost:3000",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "iscodd/rnd::rndfinal-v1.1/public"
+            ]
+        },
+        {
+            "endpoint": "localhost:3001",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "butterbaby4427/ACC_FINAL::public"
+            ]
+        },
+        {
+            "endpoint": "ws://127.0.0.1:8011/",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "brokencircles/interfaceExperiements::voodooDoll greyBox/websocketP5test"
+            ]
+        },
+        {
+            "endpoint": "ws://192.168.4.1:81/",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "Siddharth11235/Modelica-H-I-L-Tasks::Arduino/libraries/AsciiMassage/applications/Websocket Client(p5.js)"
+            ]
+        },
+        {
+            "endpoint": "ws://localhost:3000/",
+            "group": "not_verifiable",
+            "availability": null,
+            "project_ids": [
+                "FH-Potsdam/mtmi-fatherhummingbird::frontend"
+            ]
+        }
+    ],
+    "project_evidence": {
+        "whoisbma/Code-2-SP16::week-03-OOP-DOM/11-parent-child": [
+            {
+                "endpoint": "http://artforum.com/uploads/upload.001/id25455/picksimg_splash.jpg",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "Gliga5/ShipS-Online::.": [
+            {
+                "endpoint": "http://fa05d83f9b7f.eu.ngrok.io/",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "anujsachan1990/RealTimeDataShareing::public": [
+            {
+                "endpoint": "http://lamborghini.herokuapp.com/",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "lovinmaxwell/Indoor_Navigation::p5test/p5-indoor with get": [
+            {
+                "endpoint": "http://wisdomkraft.com/wisdomkraft.com/prudence/Indoor_nav/rssi_data_to_json.php",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "readyletsgo/PGDV_5200_MS1::09_nytimes_api_articles": [
+            {
+                "endpoint": "https://api.nytimes.com/svc/search/v2/articlesearch.jsonp?callback=svc_search_v2_articlesearch&api-key=41553f34c5234f16b68507c8ab48160a&q=Trees",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "notchaiya/wcc-portfolio::Data Visualization2": [
+            {
+                "endpoint": "https://api.openaq.org/v2/measurements?location_id=275642&parameter=um100&parameter=pm25&parameter=um025&parameter=pm1&parameter=pm10&parameter=um010&date_from=2023-02-10T00:00:00Z&date_to=2023-02-11T00:00:00Z&limit=1000",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "Shwinee/airline::.": [
+            {
+                "endpoint": "https://bot-so-i-am-cool.herokuapp.com/",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "Sachiko-Nakajima/websocketnew2::public": [
+            {
+                "endpoint": "https://cocreative3.herokuapp.com/",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "smohiudd/Mapping-Pies::.": [
+            {
+                "endpoint": "https://data.calgary.ca/resource/qfna-5kbg.json?$select=name,comm_code,sing_famly,duplex,multi_plex,apartment,town_house,manuf_home,conv_struc,comunl_hse",
+                "group": "dead",
+                "availability": null
+            },
+            {
+                "endpoint": "https://data.calgary.ca/resource/kzbm-mn66.json?$select=name,comm_code,location",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "acaverna/deninho-avatars::frontend": [
+            {
+                "endpoint": "https://deninhoavatars-backend.herokuapp.com/",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "ArsyAliffia/dashboard::.": [
+            {
+                "endpoint": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQNbQfDT8PTu_H0oUPd9nYSOVTgwD9GMDnqNmjz34RtbqPjrFc_WdWj7LljmD1USe_wKF-K5cQPf8xU/pub?output=csv",
+                "group": "dead",
+                "availability": null
+            },
+            {
+                "endpoint": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRGHwOAkI00DcpXwrbPxAW23q3vi2CugjVQFZXCoZJwO5eZ32fLqdfcj2MsRx375IgTJ5un5hcAlOQ2/pub?output=csv",
+                "group": "dead",
+                "availability": null
+            },
+            {
+                "endpoint": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSaJAKhxL6dzNRaCmFGc0BFYcITmGs5aD0KxKnMtODVsWkEStyFjqWTVJxwPOXkgenRBI97Wcmyqiaf/pub?output=csv",
+                "group": "dead",
+                "availability": null
+            },
+            {
+                "endpoint": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTpx5LIC6qZfHug6FoKrAvieSp-E_rTDjcgbXkxX-GhgOW8b_SnUUeQEZ55qDEABmJbrJCeVQxuom7J/pub?output=csv",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "yunku12/Didida::.": [
+            {
+                "endpoint": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRAJzSZF_ucL_xSIjc8-pRxdDVbwF-40EjgGfa3D_Y47csUndfX__85Lwb7CTZoth_WpDEZnW2bpxLe/pub?gid=415352174&single=true&output=csv",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "whoisbma/Code_2_SP18::week-09/w9_01_p5_dom": [
+            {
+                "endpoint": "https://dog.ceo/api/img/stbernard/n02109525_3388.jpg",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "tgayas97/hitswi.github.io::diyps": [
+            {
+                "endpoint": "https://hitswi.github.io/images/rabbit2.png",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "sonana2473/Project-B--CCLAB::.": [
+            {
+                "endpoint": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1912b050-3675-4394-a3d1-d0b4cb43ae0a/ddeq42t-e150d2ad-e6cb-46e6-9a4e-a908d9a170bb.png/v1/fill/w_1280,h_640,q_80,strp/saturn_texture_map__fictional_rework__by_magentameteorite_ddeq42t-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvMTkxMmIwNTAtMzY3NS00Mzk0LWEzZDEtZDBiNGNiNDNhZTBhXC9kZGVxNDJ0LWUxNTBkMmFkLWU2Y2ItNDZlNi05YTRlLWE5MDhkOWExNzBiYi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.LGF7FBdknIVE7_swXfEFe__n-IF6D2IXNWk4fjPE8Oo",
+                "group": "dead",
+                "availability": null
+            },
+            {
+                "endpoint": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/58d3c051-62a0-4471-818b-b9b92759d6b6/db6is8m-065c1dbf-d125-4729-a015-f79553c16bf9.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU4ZDNjMDUxLTYyYTAtNDQ3MS04MThiLWI5YjkyNzU5ZDZiNlwvZGI2aXM4bS0wNjVjMWRiZi1kMTI1LTQ3MjktYTAxNS1mNzk1NTNjMTZiZjkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SNbFKk_oSqXR_g0K2OquQKU33PDgktgkNc40-6Pjhqo",
+                "group": "dead",
+                "availability": null
+            },
+            {
+                "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Solarsystemscope_texture_2k_mercury.jpg/640px-Solarsystemscope_texture_2k_mercury.jpg",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "jonathan-david-martin/adveng_tank::.": [
+            {
+                "endpoint": "https://noah-and-shachar.glitch.me/",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "LukTek/LukTekGames-V.01::Chess": [
+            {
+                "endpoint": "https://peopleshub.org/wp-content/uploads/2018/04/person-icon-white.png",
+                "group": "dead",
+                "availability": null
+            },
+            {
+                "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chess_qlt45.svg/45px-Chess_qlt45.svg.png",
+                "group": "uncertain",
+                "availability": null
+            },
+            {
+                "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chess_klt45.svg/45px-Chess_klt45.svg.png",
+                "group": "uncertain",
+                "availability": null
+            },
+            {
+                "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chess_plt45.svg/45px-Chess_plt45.svg.png",
+                "group": "uncertain",
+                "availability": null
+            },
+            {
+                "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chess_qdt45.svg/45px-Chess_qdt45.svg.png",
+                "group": "uncertain",
+                "availability": null
+            },
+            {
+                "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chess_nlt45.svg/45px-Chess_nlt45.svg.png",
+                "group": "uncertain",
+                "availability": null
+            },
+            {
+                "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/OOjs_UI_icon_robot.svg/640px-OOjs_UI_icon_robot.svg.png",
+                "group": "uncertain",
+                "availability": null
+            },
+            {
+                "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chess_rlt45.svg/45px-Chess_rlt45.svg.png",
+                "group": "uncertain",
+                "availability": null
+            },
+            {
+                "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Chess_bdt45.svg/45px-Chess_bdt45.svg.png",
+                "group": "uncertain",
+                "availability": null
+            },
+            {
+                "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chess_blt45.svg/45px-Chess_blt45.svg.png",
+                "group": "uncertain",
+                "availability": null
+            },
+            {
+                "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chess_pdt45.svg/45px-Chess_pdt45.svg.png",
+                "group": "uncertain",
+                "availability": null
+            },
+            {
+                "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_ndt45.svg/45px-Chess_ndt45.svg.png",
+                "group": "uncertain",
+                "availability": null
+            },
+            {
+                "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_kdt45.svg/45px-Chess_kdt45.svg.png",
+                "group": "uncertain",
+                "availability": null
+            },
+            {
+                "endpoint": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chess_rdt45.svg/45px-Chess_rdt45.svg.png",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "SanjuWork/SIMPLEBUBBLESHOOTINGGAME::.": [
+            {
+                "endpoint": "https://raw.githubusercontent.com/molleindustria/p5.play/master/examples/assets/asteroids_ship0001.png",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "jonblz/jonblz.github.io::.": [
+            {
+                "endpoint": "https://twitter-proxy.glitch.me/tweet",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "AmbroseASC4/AmbroseASC4.github.io::pokeInvaders": [
+            {
+                "endpoint": "https://vignette2.wikia.nocookie.net/ashsencounters/images/6/62/Ash_holding_a_Pokeball_transparent.gif/revision/latest?cb=20140701175439",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "DeShrike/JavascriptPlayground::Recognatcher": [
+            {
+                "endpoint": "https://westeurope.api.cognitive.microsoft.com/customvision/v3.0/Prediction/200e8a7c-9c54-4f79-a8e3-3f2b3b70280e/classify/iterations/image-recognatcher-v2/image",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "tobiasff3200/Schiffeversenken::.": [
+            {
+                "endpoint": "ws://schiffeversenken.ddns.net:1337/",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "hectorfan/gatech-media-bridge-reverberate::.": [
+            {
+                "endpoint": "wss://hectorfan-websocket-server-echo.glitch.me/",
+                "group": "dead",
+                "availability": null
+            }
+        ],
+        "DeD2aI80/TIPE::Archives/Server/Socket/public": [
+            {
+                "endpoint": "http://77.130.132.25:3010/",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "viztopia/doppel-code::1-p5-pose-classes-training-new": [
+            {
+                "endpoint": "http://a/b?a=1&b=2&c=3",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "viztopia/doppel-code::2-p5-plateau-ClassifyPose-new": [
+            {
+                "endpoint": "http://a/b?a=1&b=2&c=3",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "whoisbma/Code-2-SP16::week-08-APIs/02a-wordnik": [
+            {
+                "endpoint": "http://api.wordnik.com/v4/word.json//relatedWords?useCanonical=false&limitPerRelationshipType=25&api_key={your%20key%20here}",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Mayank-Mishra0110011/Adventure-Fantasy-Game::.": [
+            {
+                "endpoint": "http://huffparanormal.com/wp-content/uploads/2016/03/demon_attack_horror_people_fire_fantasy_hd-wallpaper-1585418.jpg",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "rodolfomagnus/outbreak::p5/public": [
+            {
+                "endpoint": "http://outbreakwarfare.com/p5:3000",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "harji1234/towersiege3::.": [
+            {
+                "endpoint": "http://worldclockapi.com/api/json/est/now",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "ishwariv/Project-39---The-End::.": [
+            {
+                "endpoint": "http://worldclockapi.com/api/json/est/now",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Krish-Js/Angry-birds-stage-8.5-::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/America/Chicago",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "kikeShepard/Proyecto-48::PROC48-V2-code-reference1-main": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/America/Mexico_City",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Soro-just-soro/tower-topplers::Tower Topplers": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/America/New_York",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Aarav2612/sunrise-project-32::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/asia/kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Aarushshukla/aarush12::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "breshmashri/C32-JSON-and-API-calls::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "dheerajyer2418/C32H::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "studentACHU/TS-TEST::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "0111jayden/more-bubbles::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "01riyachaudhary/angry_bird::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "14-dev-y/ANGRY-BIRD-GAME-BY-DEV::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "252009/sunrise-3::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "ANIRBAN123451/Project-29-32::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "AabhasAgrawal/Angry-Bird-8-::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Aarush-G/TowerSiegeFinal::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Aditi-Atodaria/Tower-Siege_3::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Adityakushwaha2006/tower-seige-3-::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "AkshatSinghal932/time-Api::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Aksuperstart08/sunset-and-sunrise-again::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Armaan04/prjct-33::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "ArnavGoelHitman/Tower-Siege-3-::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Arunisprocoder/the-incredible-programmer-::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Aujaswie/angry_birds_stage_9::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "AvirathPaliwal/backgroundImg::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "BobTheBuilder8536/Tower_Siege_3::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Claydameron/Class_32_Project::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "GS2007/Tower_Siege3::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Hamza200729/Tower-Last-Incomplete::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "KAVIDARSHINI/SnowFall-project-33::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "KAVIESH/Tower-main-3::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "KuberTheGreat/Tower__Siege3::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "MalharMS/tower-segie-3::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Nishanth-18/TowerSiege_3::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "PREMBISOY/c32pro::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Prince-12345/PROJECT-32-::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Purvasha-coder/tower-3-again::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "SaiSusanth/twrsiege3::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Sanchita210507/C-33-Angry-Birds-Game-Final::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Shrimietewary127/TowerSeige-Main::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Sidh14/PHYSICS-ENGINE-GAME::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Sj-the-gr8/Sample-32::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Skandini06nandan/Book-Radar-Part-VI::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Srijan2008/fdf::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "TJKvooltex/Tower-Siege-3-Final::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Vedantbharadwaj/sunset1::project sun rise sunst/Sunrise-and-Sunset-Template-main": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "abhiramcoolkid/AngryBirdsFullGame::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "adithya413/project-frozen::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "aditya00123/Class-33-debugging-and-multiple-birds::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "atharva69/angry-birds-api-calls::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "ayasya771/my-game-4::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "bgowtham124/drop-heaver2::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "bhavyaDas/SUNRISE-AND-SUNSETS::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "eshaanx00/tower-mate::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "gaurizade/c32-project-tower-seige3::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "jyothirmai93/Angry-Birds-Multi-game::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "manishabagaria/shubham_tower::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "manya3368/ts-3-doubt::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "momo200716/Tower-Siege-III::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "omchheda/angrybirdscomplete::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "parthnarkhede2007/Tower-finale::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "ri94909-00/PRO-C-32-SUNRISE-AND-SUNSET-::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "rohinikashyap/TOWER-SIEGE-3-.::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "sakshamkumar123/c-32-pro::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "shaurya54/corona-fight::project corona/angryBirdsStage8.5-master": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "thirumallesh/Tower-Siege-1-2::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "whitehatjrdemo1/Aditya-AngryBirds::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "yaffagoyal/tower-seige-3-draft::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "N-dot-cyber/Json-and-API-call::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Tokyo",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "hanishk2006/Slingshot1-::AngryBirdsStage7-master": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/Asia/Tokyo",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "AyushiPar/tower3::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/est",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "amrithpusala/Tower-Siege-1-2-and-3::.": [
+            {
+                "endpoint": "http://worldtimeapi.org/api/timezone/EST",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "AaryanShaikh/JustAnAveragePortfolio::.": [
+            {
+                "endpoint": "https://api.countapi.xyz/update/aaryan-shaikh/portfolio/?amount=1",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "fannynilsson123/exploring-code::.": [
+            {
+                "endpoint": "https://api.covid19api.com/summary",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "deedeekim/4.033::weatherapp1": [
+            {
+                "endpoint": "https://api.darksky.net/forecast/687d436565118eaf81a39a9ac4b34601/42.361936,%20-71.097309",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "ambrguo/weatherapp::amber_guo_weather_iter2/hybrid": [
+            {
+                "endpoint": "https://api.forecast.io/forecast/608cafddfa3b4ce745e5d3142925597b/21.1606,-86.8475",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "ambrguo/weatherapp::amber_guo_weather_iter2/app2": [
+            {
+                "endpoint": "https://api.forecast.io/forecast/608cafddfa3b4ce745e5d3142925597b/42.3601,-71.0589",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "emraine/phone-a-lighthouse::.": [
+            {
+                "endpoint": "https://cdn.glitch.com/c3daddd3-de7a-49cd-bbfa-e749378a8fbf%2Fanimals3.png?v=1612548365370",
+                "group": "uncertain",
+                "availability": null
+            },
+            {
+                "endpoint": "https://cdn.glitch.com/c3daddd3-de7a-49cd-bbfa-e749378a8fbf%2Flighthouse.png?v=1612566005585",
+                "group": "uncertain",
+                "availability": null
+            },
+            {
+                "endpoint": "https://cdn.glitch.com/c3daddd3-de7a-49cd-bbfa-e749378a8fbf%2Ftilesheet_complete.png?v=1612566704408",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "megmgleason/macarena-teaching-game::.": [
+            {
+                "endpoint": "https://cdn.glitch.com/d14afeca-9a45-4625-b8a2-6252656254ca%2FLos%20Del%20Rio%20-%20Macarena%20(Bayside%20Boys%20Remix).mp3?v=1595973684253",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "owenyi2/Jupiter-Io-Simulation::Io_Eclipse_Simulation_Render_Refactor_2023_08_20_03_25_21": [
+            {
+                "endpoint": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTgx1xu3f2La3t03gbxOkV5ndUooPOGTZ1gl7vlQqVuX3XntBQI0beR4E_HHfNG0ssUMNQ4fDveI6UF/pub?gid=1285170362&single=true&output=csv",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "julien-wagentrutz/tweetClimate::src": [
+            {
+                "endpoint": "https://firetweetapi.julienwagentrutz.com/country",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "jackjury/hitclient::.": [
+            {
+                "endpoint": "https://hitcounterserver.herokuapp.com/count",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "diegocruz10/cv::t1/7. Perspective Room": [
+            {
+                "endpoint": "https://image.flaticon.com/icons/png/128/10/10525.png",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "frank890417/TaichungDigital2017::public/project/dandelion_dcc": [
+            {
+                "endpoint": "https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text%3D%22taichung%2C%20tw%22)&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "cpolk1/subway::SUBWAY": [
+            {
+                "endpoint": "https://requestreduce.org/images/car-clipart-animated-16.png",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "bagaski/youthyouth::.": [
+            {
+                "endpoint": "https://source.unsplash.com/random",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "aldelpech/p5js-sketch::emporte_piece_ellipse": [
+            {
+                "endpoint": "https://source.unsplash.com/random/1280x640",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "aldelpech/p5js-sketch::charger-image-et-data-aynchrone": [
+            {
+                "endpoint": "https://source.unsplash.com/random/512x302",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "sushmasiram/AB_final::.": [
+            {
+                "endpoint": "https://worldclockapi.com/api/json/est/now",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "adityasah19/API-calls::AngryBirdsStage4-master/AngryBirdsStage4-master": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/America/Adak",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "NihalManoj/Virtual-Pet-2::.": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/America/Los_Angeles",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "crumbly3000/Project32A::.": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/America/New_York",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "SNHaq/Tower_Seige3::.": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/America/Texas",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Swanandi17/Tower-Game-3::.": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/Asia/Calcutta",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Anya-Pattnaik/sunrise-sunset::.": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Deepika-teacher/Project-32-TowerSiege-3::.": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "KashyapPatel1574/C-47-PRO::.": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Moinack/Project-32-Tower-Seige-3::.": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Ramcharan2007/TowerSiege-3::.": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "ShonWaghchoure/Tower-siege-C-32::.": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "TARUN-BARASKAR/SUNRISE---AND--SUNSET::.": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "VARUN2910/TOWER_SIEGE-3::.": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "anas813/TS3::Project-32-Tower-Siege-3": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "deepthina/P32--Tower-Siege-3::.": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "dhanush178/sunrise-andsunset::.": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "pashyanthi/try-game::tower seige 3/p5.play-boilerplate-master": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "srishtic08/Save-The-Balloon::.": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "vaishali570/sunrise-and-sunset-1::.": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "vanshikaMaheshwari/Project-32_C-32::.": [
+            {
+                "endpoint": "https://worldtimeapi.org/api/timezone/Asia/Kolkata",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "spezialis/zauberwald::ml5_PoseNet_p5": [
+            {
+                "endpoint": "https://www.askideas.com/media/14/Smile-Clipart.jpg",
+                "group": "uncertain",
+                "availability": null
+            }
+        ],
+        "Masre/Test-Project-2::public": [
+            {
+                "endpoint": "/",
+                "group": "not_verifiable",
+                "availability": null
+            },
+            {
+                "endpoint": "/?c=d",
+                "group": "not_verifiable",
+                "availability": null
+            },
+            {
+                "endpoint": "/?woot",
+                "group": "not_verifiable",
+                "availability": null
+            },
+            {
+                "endpoint": "/abc",
+                "group": "not_verifiable",
+                "availability": null
+            },
+            {
+                "endpoint": "/abc?b=c&d=e",
+                "group": "not_verifiable",
+                "availability": null
+            },
+            {
+                "endpoint": "/foo",
+                "group": "not_verifiable",
+                "availability": null
+            },
+            {
+                "endpoint": "/invalid",
+                "group": "not_verifiable",
+                "availability": null
+            },
+            {
+                "endpoint": "/no",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "cvecve147/p5-js-::Examples/Intro-to-Data-APIs-JS/Intro-to-Data-APIs-JS-source/module2/exercise_08_p5_drawings/public": [
+            {
+                "endpoint": "/api",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "butterbaby4427/ACC_FINAL::public": [
+            {
+                "endpoint": "/banana",
+                "group": "not_verifiable",
+                "availability": null
+            },
+            {
+                "endpoint": "localhost:3001",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "peaceman252/Advanced-Javascript::public": [
+            {
+                "endpoint": "/canvasclicked",
+                "group": "not_verifiable",
+                "availability": null
+            },
+            {
+                "endpoint": "/highscore",
+                "group": "not_verifiable",
+                "availability": null
+            },
+            {
+                "endpoint": "/leaderboard",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "gokce/p5js-boilerplate::public": [
+            {
+                "endpoint": "/save/image",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "interactionresearchstudio/YoYoWiFiManager::examples/P5js/data": [
+            {
+                "endpoint": "/yoyo/active",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "jcvar/11-Asteroids.io::asteroids.io/public": [
+            {
+                "endpoint": "http://0.0.0.0:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "iscodd/rnd::rndfinal-v1.0/public": [
+            {
+                "endpoint": "http://10.23.10.87:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "nopivnick/itp_networks_good-neighbor::public/admin": [
+            {
+                "endpoint": "http://10.23.11.246:8080/playState/1",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "chrislos/CC_23SoSe::class/08_Node/public": [
+            {
+                "endpoint": "http://10.235.8.10:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "ioio-creative/prototype-2::Examples/OSC-P5-Node-SendReceive/public": [
+            {
+                "endpoint": "http://127.0.0.1:33200/query",
+                "group": "not_verifiable",
+                "availability": null
+            },
+            {
+                "endpoint": "http://127.0.0.1:8081/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "ioio-creative/prototype-2::bin/data/example/openpose-web/openpose/sendImage": [
+            {
+                "endpoint": "http://127.0.0.1:33200/query",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "ioio-creative/prototype-2::bin/data/example/openpose-web/openpose/sendWebcam/public": [
+            {
+                "endpoint": "http://127.0.0.1:33200/query",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "ioio-creative/prototype-2::bin/data/nodeGetImage/public": [
+            {
+                "endpoint": "http://127.0.0.1:33200/query",
+                "group": "not_verifiable",
+                "availability": null
+            },
+            {
+                "endpoint": "http://127.0.0.1:8081/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "ioio-creative/prototype-2::bin/data/example/openpose-web/openpose/receivesOnly": [
+            {
+                "endpoint": "http://127.0.0.1:3333/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "mariocmoran/ACE2_1S23_G17::Practica 1/appWeb": [
+            {
+                "endpoint": "http://127.0.0.1:5000/Datos",
+                "group": "not_verifiable",
+                "availability": null
+            },
+            {
+                "endpoint": "http://127.0.0.1:5000/UltimoDato",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "LFalch/MachineLearning::vores_eksempler/output/p5-hue": [
+            {
+                "endpoint": "http://127.0.0.1:8081/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "ioio-creative/prototype-2::bin/data/nodeGetImage/public/p5-basic": [
+            {
+                "endpoint": "http://127.0.0.1:8081/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "kwonjo/facedrawing::client": [
+            {
+                "endpoint": "http://127.0.0.1:8081/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/10_rekursion 2": [
+            {
+                "endpoint": "http://127.0.0.1:8081/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/p5-ableton": [
+            {
+                "endpoint": "http://127.0.0.1:8081/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/p5-faceOsc": [
+            {
+                "endpoint": "http://127.0.0.1:8081/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/p5-faceOsc-flocking": [
+            {
+                "endpoint": "http://127.0.0.1:8081/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "slotshaven-digitek-2018/Javascript-Examples::p5js-osc/p5-kinect": [
+            {
+                "endpoint": "http://127.0.0.1:8081/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "xh47/InteractiveGraphicsConnectingThings::client": [
+            {
+                "endpoint": "http://127.0.0.1:8081/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "MartinAlejandreChaya/TheInfected::public": [
+            {
+                "endpoint": "http://192.168.1.28:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "Creativeguru97/LearnP5JS::webSocket/websocket01/public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "DeShrike/JavascriptPlayground::P5/p5/sockets/public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "DropTableSanity/AnotherNodeGame::public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "ErivanDev/SimpleAgarioClone::public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "Tyler-Jon-Wong/Ninja-Brawl-Online::public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "ZakHu7/logo-identifier-app::public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "aron002/Connect4WithWebSockets::public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "chrislos/CC_23SoSe::08_Node/public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "chrislos/CC_23SoSe::class/09_NodeforMax/public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "chrislos/CC_23SoSe::class/10_BouncingTones/public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "digitalideation/studio_uxweb2_2022::shiffman_Muster/public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "iscodd/rnd::rndtest 0416/public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "joshbirch/Archive::js/Node/public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "katsully/advanced-creative-coding2021::Class16-Sockets/01_DrawingWithSockets/public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "katsully/advanced-creative-coding2021::Class18-Sockets-Twitter/01_SocketsAndTwitterBot/public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "katsully/advanced-creative-coding2021::Class22-MLChatBot/01_ChatBotExample/public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "katsully/advanced-creative-coding2021::Class25-Databases/public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "kmcwharter/kmcwharter.github.io::public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "mariap9/try::public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "raphaelbruno/mmo-game::public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "tropicalcoding/websockets-color-changer::.": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "yasinyer/Masterproef::public": [
+            {
+                "endpoint": "http://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "elinsterz/understanding-networks::axidraw_project/not_using/axidraw_code_2/public": [
+            {
+                "endpoint": "http://localhost:3001/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "joshp-f/space-server2::public": [
+            {
+                "endpoint": "http://localhost/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "SRJC-Computer-Science-Club/jumpnotes::public": [
+            {
+                "endpoint": "https://localhost/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "iscodd/rnd::rndfinal-v1.1/public": [
+            {
+                "endpoint": "localhost:3000",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "brokencircles/interfaceExperiements::voodooDoll greyBox/websocketP5test": [
+            {
+                "endpoint": "ws://127.0.0.1:8011/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "Siddharth11235/Modelica-H-I-L-Tasks::Arduino/libraries/AsciiMassage/applications/Websocket Client(p5.js)": [
+            {
+                "endpoint": "ws://192.168.4.1:81/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ],
+        "FH-Potsdam/mtmi-fatherhummingbird::frontend": [
+            {
+                "endpoint": "ws://localhost:3000/",
+                "group": "not_verifiable",
+                "availability": null
+            }
+        ]
+    }
+}

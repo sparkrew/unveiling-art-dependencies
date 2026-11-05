@@ -1,0 +1,1275 @@
+{
+    "counts": {
+        "projects_with_missing_local_data_sources": 22,
+        "projects_with_unavailable_remote_data_sources": 23,
+        "local_only": 21,
+        "remote_only": 22,
+        "both": 1,
+        "total_projects_with_missing_or_unavailable_data_sources": 44
+    },
+    "all_affected_projects": [
+        "Andrew387/Car-sequencer-project::Cargameproject",
+        "Brendan1Smith/APCSPrinciplesSem2_Brendan1Smith::Labs/Lab 0122 JSON Lab",
+        "Brendan1Smith/APCSPrinciplesSem2_Brendan1Smith::Labs/Lab0118 CrimeRate",
+        "ChantelLai/Slave-to-the-Algorithm::Week11/DataVisualisation",
+        "DavidA64/Clase-32-::Clase 31/Codigo-de-la-plantilla-PRO-C22-AA-main/Codigo-de-la-plantilla-PRO-C22-AA-main",
+        "FearsomeMango73/Art151CreativeCoding::AssignmentThree",
+        "FengY56/21sp_Adv-interactive-ptototype::Project 4/p4 folder",
+        "IDMNYU/DM-UY1333-D-CreativeCodingFA16::week13/json_weather",
+        "ProcessingLAB-Wits/Processing_DataArt::Week_8/NotComplete/7_4_JSON_basics/WeatherExample",
+        "QigaoW/QigaoWang.github.io::A3.2",
+        "QigaoW/QigaoWang.github.io::A3a",
+        "Raafat9966/classRoom-Exercises::mongoDB-exercises/intro-fullstack-js/Visualize_MongoDB-P5js",
+        "Wennnjunnnn/CCLab::WeatherApp",
+        "ambrguo/weatherapp::amber_guo_weather_iter2/app2",
+        "ambrguo/weatherapp::amber_guo_weather_iter2/hybrid",
+        "bc0424/Exercise_8::Exercise_8_Bonnie_Chan",
+        "downtownEB24/WebsitePortfolio::Processing/modes/p5jsMode/examples/Hello P5/ex05_weather",
+        "fernando-RA/p5-plus-plus::IntelligenceAndLearning/session3-gradient-descent/similarity_score",
+        "harveymoon/Lil_Cars::.",
+        "hcvazquez/UFFOptimizer::benchmark/p5.js/test/manual-test-examples/async/loadJSON_preload",
+        "ikuuwhoikuu/ikuuwhoikuu.github.io::credits",
+        "ikuuwhoikuu/ikuuwhoikuu.github.io::marcel-bio",
+        "ikuuwhoikuu/ikuuwhoikuu.github.io::open-sound-control",
+        "ikuuwhoikuu/ikuuwhoikuu.github.io::qr-code",
+        "irwinmier96/GEOG581::project2",
+        "jackjury/hitclient::.",
+        "jli/processing-sketches::cellauto",
+        "ltejedor/agario-clone-for-hoboken::demos/08_echonestBeatPitch",
+        "ltejedor/agario-clone-for-hoboken::demos/08_echonestPitchSegment",
+        "lydiajessup/creative-coding::ICM_MADNESS_collab",
+        "masterTwig-0902/0418_work_HW03::.",
+        "ml3907/ml3907.github.io::A3/text1",
+        "ml3907/ml3907.github.io::A3/text2",
+        "ml3907/ml3907.github.io::A3/text3",
+        "rpcarvalho/rpcarvalho.github.io::projects/deUke",
+        "smohiudd/Mapping-Pies::.",
+        "starzonmyarmz/timer-viz::static/viz/2",
+        "starzonmyarmz/timer-viz::static/viz/3",
+        "starzonmyarmz/timer-viz::static/viz/4",
+        "starzonmyarmz/timer-viz::static/viz/5",
+        "starzonmyarmz/timer-viz::static/viz/6",
+        "starzonmyarmz/timer-viz::static/viz/7",
+        "thedrifter426/dat405-drift::Assignment 2",
+        "wjmoner/weather-example-gfx-p5js::."
+    ],
+    "local_only": [
+        "Andrew387/Car-sequencer-project::Cargameproject",
+        "Brendan1Smith/APCSPrinciplesSem2_Brendan1Smith::Labs/Lab 0122 JSON Lab",
+        "Brendan1Smith/APCSPrinciplesSem2_Brendan1Smith::Labs/Lab0118 CrimeRate",
+        "ChantelLai/Slave-to-the-Algorithm::Week11/DataVisualisation",
+        "DavidA64/Clase-32-::Clase 31/Codigo-de-la-plantilla-PRO-C22-AA-main/Codigo-de-la-plantilla-PRO-C22-AA-main",
+        "ambrguo/weatherapp::amber_guo_weather_iter2/app2",
+        "ambrguo/weatherapp::amber_guo_weather_iter2/hybrid",
+        "bc0424/Exercise_8::Exercise_8_Bonnie_Chan",
+        "fernando-RA/p5-plus-plus::IntelligenceAndLearning/session3-gradient-descent/similarity_score",
+        "harveymoon/Lil_Cars::.",
+        "irwinmier96/GEOG581::project2",
+        "jli/processing-sketches::cellauto",
+        "ltejedor/agario-clone-for-hoboken::demos/08_echonestBeatPitch",
+        "ltejedor/agario-clone-for-hoboken::demos/08_echonestPitchSegment",
+        "masterTwig-0902/0418_work_HW03::.",
+        "starzonmyarmz/timer-viz::static/viz/2",
+        "starzonmyarmz/timer-viz::static/viz/3",
+        "starzonmyarmz/timer-viz::static/viz/4",
+        "starzonmyarmz/timer-viz::static/viz/5",
+        "starzonmyarmz/timer-viz::static/viz/6",
+        "starzonmyarmz/timer-viz::static/viz/7"
+    ],
+    "remote_only": [
+        "FengY56/21sp_Adv-interactive-ptototype::Project 4/p4 folder",
+        "IDMNYU/DM-UY1333-D-CreativeCodingFA16::week13/json_weather",
+        "ProcessingLAB-Wits/Processing_DataArt::Week_8/NotComplete/7_4_JSON_basics/WeatherExample",
+        "QigaoW/QigaoWang.github.io::A3.2",
+        "QigaoW/QigaoWang.github.io::A3a",
+        "Raafat9966/classRoom-Exercises::mongoDB-exercises/intro-fullstack-js/Visualize_MongoDB-P5js",
+        "Wennnjunnnn/CCLab::WeatherApp",
+        "downtownEB24/WebsitePortfolio::Processing/modes/p5jsMode/examples/Hello P5/ex05_weather",
+        "hcvazquez/UFFOptimizer::benchmark/p5.js/test/manual-test-examples/async/loadJSON_preload",
+        "ikuuwhoikuu/ikuuwhoikuu.github.io::credits",
+        "ikuuwhoikuu/ikuuwhoikuu.github.io::marcel-bio",
+        "ikuuwhoikuu/ikuuwhoikuu.github.io::open-sound-control",
+        "ikuuwhoikuu/ikuuwhoikuu.github.io::qr-code",
+        "jackjury/hitclient::.",
+        "lydiajessup/creative-coding::ICM_MADNESS_collab",
+        "ml3907/ml3907.github.io::A3/text1",
+        "ml3907/ml3907.github.io::A3/text2",
+        "ml3907/ml3907.github.io::A3/text3",
+        "rpcarvalho/rpcarvalho.github.io::projects/deUke",
+        "smohiudd/Mapping-Pies::.",
+        "thedrifter426/dat405-drift::Assignment 2",
+        "wjmoner/weather-example-gfx-p5js::."
+    ],
+    "both": [
+        "FearsomeMango73/Art151CreativeCoding::AssignmentThree"
+    ],
+    "all_projects_with_missing_local_data_sources": [
+        "Andrew387/Car-sequencer-project::Cargameproject",
+        "Brendan1Smith/APCSPrinciplesSem2_Brendan1Smith::Labs/Lab 0122 JSON Lab",
+        "Brendan1Smith/APCSPrinciplesSem2_Brendan1Smith::Labs/Lab0118 CrimeRate",
+        "ChantelLai/Slave-to-the-Algorithm::Week11/DataVisualisation",
+        "DavidA64/Clase-32-::Clase 31/Codigo-de-la-plantilla-PRO-C22-AA-main/Codigo-de-la-plantilla-PRO-C22-AA-main",
+        "FearsomeMango73/Art151CreativeCoding::AssignmentThree",
+        "ambrguo/weatherapp::amber_guo_weather_iter2/app2",
+        "ambrguo/weatherapp::amber_guo_weather_iter2/hybrid",
+        "bc0424/Exercise_8::Exercise_8_Bonnie_Chan",
+        "fernando-RA/p5-plus-plus::IntelligenceAndLearning/session3-gradient-descent/similarity_score",
+        "harveymoon/Lil_Cars::.",
+        "irwinmier96/GEOG581::project2",
+        "jli/processing-sketches::cellauto",
+        "ltejedor/agario-clone-for-hoboken::demos/08_echonestBeatPitch",
+        "ltejedor/agario-clone-for-hoboken::demos/08_echonestPitchSegment",
+        "masterTwig-0902/0418_work_HW03::.",
+        "starzonmyarmz/timer-viz::static/viz/2",
+        "starzonmyarmz/timer-viz::static/viz/3",
+        "starzonmyarmz/timer-viz::static/viz/4",
+        "starzonmyarmz/timer-viz::static/viz/5",
+        "starzonmyarmz/timer-viz::static/viz/6",
+        "starzonmyarmz/timer-viz::static/viz/7"
+    ],
+    "all_projects_with_unavailable_remote_data_sources": [
+        "FearsomeMango73/Art151CreativeCoding::AssignmentThree",
+        "FengY56/21sp_Adv-interactive-ptototype::Project 4/p4 folder",
+        "IDMNYU/DM-UY1333-D-CreativeCodingFA16::week13/json_weather",
+        "ProcessingLAB-Wits/Processing_DataArt::Week_8/NotComplete/7_4_JSON_basics/WeatherExample",
+        "QigaoW/QigaoWang.github.io::A3.2",
+        "QigaoW/QigaoWang.github.io::A3a",
+        "Raafat9966/classRoom-Exercises::mongoDB-exercises/intro-fullstack-js/Visualize_MongoDB-P5js",
+        "Wennnjunnnn/CCLab::WeatherApp",
+        "downtownEB24/WebsitePortfolio::Processing/modes/p5jsMode/examples/Hello P5/ex05_weather",
+        "hcvazquez/UFFOptimizer::benchmark/p5.js/test/manual-test-examples/async/loadJSON_preload",
+        "ikuuwhoikuu/ikuuwhoikuu.github.io::credits",
+        "ikuuwhoikuu/ikuuwhoikuu.github.io::marcel-bio",
+        "ikuuwhoikuu/ikuuwhoikuu.github.io::open-sound-control",
+        "ikuuwhoikuu/ikuuwhoikuu.github.io::qr-code",
+        "jackjury/hitclient::.",
+        "lydiajessup/creative-coding::ICM_MADNESS_collab",
+        "ml3907/ml3907.github.io::A3/text1",
+        "ml3907/ml3907.github.io::A3/text2",
+        "ml3907/ml3907.github.io::A3/text3",
+        "rpcarvalho/rpcarvalho.github.io::projects/deUke",
+        "smohiudd/Mapping-Pies::.",
+        "thedrifter426/dat405-drift::Assignment 2",
+        "wjmoner/weather-example-gfx-p5js::."
+    ],
+    "project_evidence": {
+        "ambrguo/weatherapp::amber_guo_weather_iter2/app2": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "cachedForecastForBoston.json",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ambrguo__weatherapp/amber_guo_weather_iter2/app2/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ambrguo__weatherapp/amber_guo_weather_iter2/app2/sketch.js",
+                    "line": 224,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "ambrguo/weatherapp::amber_guo_weather_iter2/hybrid": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "cachedForecastForBoston.json",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ambrguo__weatherapp/amber_guo_weather_iter2/hybrid/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ambrguo__weatherapp/amber_guo_weather_iter2/hybrid/sketch.js",
+                    "line": 111,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "Andrew387/Car-sequencer-project::Cargameproject": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "trackdata.json",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/Andrew387__Car-sequencer-project/Cargameproject/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/Andrew387__Car-sequencer-project/Cargameproject/sketch.js",
+                    "line": 4,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "bc0424/Exercise_8::Exercise_8_Bonnie_Chan": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "data/Tale_of_Two_cities.txt",
+                    "loader_api": "loadStrings",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/bc0424__Exercise_8/Exercise_8_Bonnie_Chan/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/bc0424__Exercise_8/Exercise_8_Bonnie_Chan/sketch.js",
+                    "line": 11,
+                    "category": "dataset",
+                    "extension": ".txt",
+                    "format": "Text data",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "Brendan1Smith/APCSPrinciplesSem2_Brendan1Smith::Labs/Lab 0122 JSON Lab": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "data.json",
+                    "loader_api": "html:src",
+                    "detection_method": "html_attribute",
+                    "source_type": "html",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/Brendan1Smith__APCSPrinciplesSem2_Brendan1Smith/Labs/Lab 0122 JSON Lab/index.html",
+                    "html_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/Brendan1Smith__APCSPrinciplesSem2_Brendan1Smith/Labs/Lab 0122 JSON Lab/index.html",
+                    "html_tag": "script",
+                    "html_attribute": "src",
+                    "line": 10,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "Brendan1Smith/APCSPrinciplesSem2_Brendan1Smith::Labs/Lab0118 CrimeRate": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "population.json",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/Brendan1Smith__APCSPrinciplesSem2_Brendan1Smith/Labs/Lab0118 CrimeRate/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/Brendan1Smith__APCSPrinciplesSem2_Brendan1Smith/Labs/Lab0118 CrimeRate/sketch.js",
+                    "line": 8,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "ChantelLai/Slave-to-the-Algorithm::Week11/DataVisualisation": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "days.json",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ChantelLai__Slave-to-the-Algorithm/Week11/DataVisualisation/Data.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ChantelLai__Slave-to-the-Algorithm/Week11/DataVisualisation/Data.js",
+                    "line": 8,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "DavidA64/Clase-32-::Clase 31/Codigo-de-la-plantilla-PRO-C22-AA-main/Codigo-de-la-plantilla-PRO-C22-AA-main": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "assets/boat/brokenboat.json",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/DavidA64__Clase-32-/Clase 31/Codigo-de-la-plantilla-PRO-C22-AA-main/Codigo-de-la-plantilla-PRO-C22-AA-main/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/DavidA64__Clase-32-/Clase 31/Codigo-de-la-plantilla-PRO-C22-AA-main/Codigo-de-la-plantilla-PRO-C22-AA-main/sketch.js",
+                    "line": 17,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "downtownEB24/WebsitePortfolio::Processing/modes/p5jsMode/examples/Hello P5/ex05_weather": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "https://cors-anywhere.herokuapp.com/https://www.metaweather.com/api/location/2459115/",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/downtownEB24__WebsitePortfolio/Processing/modes/p5jsMode/examples/Hello P5/ex05_weather/ex05_weather.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/downtownEB24__WebsitePortfolio/Processing/modes/p5jsMode/examples/Hello P5/ex05_weather/ex05_weather.js",
+                    "line": 17,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 403,
+                    "final_url": "https://cors-anywhere.herokuapp.com/corsdemo",
+                    "redirected": true,
+                    "error": null
+                }
+            ]
+        },
+        "FearsomeMango73/Art151CreativeCoding::AssignmentThree": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "js/dinos.json",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/FearsomeMango73__Art151CreativeCoding/AssignmentThree/js/openWeatherAPI.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/FearsomeMango73__Art151CreativeCoding/AssignmentThree/js/openWeatherAPI.js",
+                    "line": 14,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                },
+                {
+                    "reference": "js/Drinks.json",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/FearsomeMango73__Art151CreativeCoding/AssignmentThree/main.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/FearsomeMango73__Art151CreativeCoding/AssignmentThree/main.js",
+                    "line": 57,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "https://api.openweathermap.org/data/2.5/weather?q=Chicago&units=imperial&appid=949e288a2554acb67d2e42cf6126bab7",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/FearsomeMango73__Art151CreativeCoding/AssignmentThree/js/openWeatherAPI.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/FearsomeMango73__Art151CreativeCoding/AssignmentThree/js/openWeatherAPI.js",
+                    "line": 13,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "https://api.openweathermap.org/data/2.5/weather?q=Chicago&units=imperial&appid=949e288a2554acb67d2e42cf6126bab7",
+                    "redirected": false,
+                    "error": null
+                },
+                {
+                    "reference": "https://api.openweathermap.org/data/2.5/weather?q=Chicago&units=imperial&appid=949e288a2554acb67d2e42cf6126bab7",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/FearsomeMango73__Art151CreativeCoding/AssignmentThree/js/openWeatherAPI.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/FearsomeMango73__Art151CreativeCoding/AssignmentThree/js/openWeatherAPI.js",
+                    "line": 30,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "https://api.openweathermap.org/data/2.5/weather?q=Chicago&units=imperial&appid=949e288a2554acb67d2e42cf6126bab7",
+                    "redirected": false,
+                    "error": null
+                },
+                {
+                    "reference": "https://api.openweathermap.org/data/2.5/weather?q=Chicago&units=imperial&appid=949e288a2554acb67d2e42cf6126bab7",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/FearsomeMango73__Art151CreativeCoding/AssignmentThree/main.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/FearsomeMango73__Art151CreativeCoding/AssignmentThree/main.js",
+                    "line": 56,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "https://api.openweathermap.org/data/2.5/weather?q=Chicago&units=imperial&appid=949e288a2554acb67d2e42cf6126bab7",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "FengY56/21sp_Adv-interactive-ptototype::Project 4/p4 folder": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "https://api.particle.io/v1/devices/300044001847393035313137/rain?access_token=7fb03fee2cd7553e8dffbedb5bec2da66af6ea2c",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/FengY56__21sp_Adv-interactive-ptototype/Project 4/p4 folder/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/FengY56__21sp_Adv-interactive-ptototype/Project 4/p4 folder/sketch.js",
+                    "line": 179,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "https://api.particle.io/v1/devices/300044001847393035313137/rain?access_token=7fb03fee2cd7553e8dffbedb5bec2da66af6ea2c",
+                    "redirected": false,
+                    "error": null
+                },
+                {
+                    "reference": "https://api.particle.io/v1/devices/300044001847393035313137/color?access_token=7fb03fee2cd7553e8dffbedb5bec2da66af6ea2c",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/FengY56__21sp_Adv-interactive-ptototype/Project 4/p4 folder/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/FengY56__21sp_Adv-interactive-ptototype/Project 4/p4 folder/sketch.js",
+                    "line": 182,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "https://api.particle.io/v1/devices/300044001847393035313137/color?access_token=7fb03fee2cd7553e8dffbedb5bec2da66af6ea2c",
+                    "redirected": false,
+                    "error": null
+                },
+                {
+                    "reference": "https://api.particle.io/v1/devices/300044001847393035313137/vab?access_token=7fb03fee2cd7553e8dffbedb5bec2da66af6ea2c",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/FengY56__21sp_Adv-interactive-ptototype/Project 4/p4 folder/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/FengY56__21sp_Adv-interactive-ptototype/Project 4/p4 folder/sketch.js",
+                    "line": 185,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "https://api.particle.io/v1/devices/300044001847393035313137/vab?access_token=7fb03fee2cd7553e8dffbedb5bec2da66af6ea2c",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "fernando-RA/p5-plus-plus::IntelligenceAndLearning/session3-gradient-descent/similarity_score": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "/zdata/movies.json",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/fernando-RA__p5-plus-plus/IntelligenceAndLearning/session3-gradient-descent/similarity_score/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/fernando-RA__p5-plus-plus/IntelligenceAndLearning/session3-gradient-descent/similarity_score/sketch.js",
+                    "line": 8,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "harveymoon/Lil_Cars::.": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "winners.json",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/harveymoon__Lil_Cars/old/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/harveymoon__Lil_Cars/old/sketch.js",
+                    "line": 348,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "hcvazquez/UFFOptimizer::benchmark/p5.js/test/manual-test-examples/async/loadJSON_preload": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "http://api.openweathermap.org/data/2.5/weather?id=5128581&units=imperial",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/hcvazquez__UFFOptimizer/benchmark/p5.js/test/manual-test-examples/async/loadJSON_preload/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/hcvazquez__UFFOptimizer/benchmark/p5.js/test/manual-test-examples/async/loadJSON_preload/sketch.js",
+                    "line": 15,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "http",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "http://api.openweathermap.org/data/2.5/weather?id=5128581&units=imperial",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "IDMNYU/DM-UY1333-D-CreativeCodingFA16::week13/json_weather": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "http://api.openweathermap.org/data/2.5/weather?APPID=6fbadd7b22efd6545720c02b303d5deb&q=NewYork,USA&units=imperial",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/IDMNYU__DM-UY1333-D-CreativeCodingFA16/week13/json_weather/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/IDMNYU__DM-UY1333-D-CreativeCodingFA16/week13/json_weather/sketch.js",
+                    "line": 12,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "http",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "http://api.openweathermap.org/data/2.5/weather?APPID=6fbadd7b22efd6545720c02b303d5deb&q=NewYork,USA&units=imperial",
+                    "redirected": false,
+                    "error": null
+                },
+                {
+                    "reference": "http://api.openweathermap.org/data/2.5/weather?APPID=6fbadd7b22efd6545720c02b303d5deb&q=Chicago,USA&units=imperial",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/IDMNYU__DM-UY1333-D-CreativeCodingFA16/week13/json_weather/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/IDMNYU__DM-UY1333-D-CreativeCodingFA16/week13/json_weather/sketch.js",
+                    "line": 13,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "http",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "http://api.openweathermap.org/data/2.5/weather?APPID=6fbadd7b22efd6545720c02b303d5deb&q=Chicago,USA&units=imperial",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "ikuuwhoikuu/ikuuwhoikuu.github.io::credits": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "https://s1.wp.com/wp-includes/wlwmanifest.xml",
+                    "loader_api": "html:href",
+                    "detection_method": "html_attribute",
+                    "source_type": "html",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ikuuwhoikuu__ikuuwhoikuu.github.io/credits/index.html",
+                    "html_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ikuuwhoikuu__ikuuwhoikuu.github.io/credits/index.html",
+                    "html_tag": "link",
+                    "html_attribute": "href",
+                    "line": 72,
+                    "category": "dataset",
+                    "extension": ".xml",
+                    "format": "XML",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 404,
+                    "final_url": "https://s1.wp.com/wp-includes/wlwmanifest.xml",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "ikuuwhoikuu/ikuuwhoikuu.github.io::marcel-bio": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "https://s1.wp.com/wp-includes/wlwmanifest.xml",
+                    "loader_api": "html:href",
+                    "detection_method": "html_attribute",
+                    "source_type": "html",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ikuuwhoikuu__ikuuwhoikuu.github.io/marcel-bio/index.html",
+                    "html_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ikuuwhoikuu__ikuuwhoikuu.github.io/marcel-bio/index.html",
+                    "html_tag": "link",
+                    "html_attribute": "href",
+                    "line": 71,
+                    "category": "dataset",
+                    "extension": ".xml",
+                    "format": "XML",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 404,
+                    "final_url": "https://s1.wp.com/wp-includes/wlwmanifest.xml",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "ikuuwhoikuu/ikuuwhoikuu.github.io::open-sound-control": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "https://s1.wp.com/wp-includes/wlwmanifest.xml",
+                    "loader_api": "html:href",
+                    "detection_method": "html_attribute",
+                    "source_type": "html",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ikuuwhoikuu__ikuuwhoikuu.github.io/open-sound-control/index.html",
+                    "html_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ikuuwhoikuu__ikuuwhoikuu.github.io/open-sound-control/index.html",
+                    "html_tag": "link",
+                    "html_attribute": "href",
+                    "line": 71,
+                    "category": "dataset",
+                    "extension": ".xml",
+                    "format": "XML",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 404,
+                    "final_url": "https://s1.wp.com/wp-includes/wlwmanifest.xml",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "ikuuwhoikuu/ikuuwhoikuu.github.io::qr-code": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "https://s1.wp.com/wp-includes/wlwmanifest.xml",
+                    "loader_api": "html:href",
+                    "detection_method": "html_attribute",
+                    "source_type": "html",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ikuuwhoikuu__ikuuwhoikuu.github.io/qr-code/index.html",
+                    "html_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ikuuwhoikuu__ikuuwhoikuu.github.io/qr-code/index.html",
+                    "html_tag": "link",
+                    "html_attribute": "href",
+                    "line": 71,
+                    "category": "dataset",
+                    "extension": ".xml",
+                    "format": "XML",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 404,
+                    "final_url": "https://s1.wp.com/wp-includes/wlwmanifest.xml",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "irwinmier96/GEOG581::project2": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "data/Building_Codes_updated.csv",
+                    "loader_api": "loadTable",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/irwinmier96__GEOG581/project2/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/irwinmier96__GEOG581/project2/sketch.js",
+                    "line": 47,
+                    "category": "dataset",
+                    "extension": ".csv",
+                    "format": "CSV",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "jackjury/hitclient::.": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "https://hitcounterserver.herokuapp.com/count",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/jackjury__hitclient/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/jackjury__hitclient/sketch.js",
+                    "line": 8,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 503,
+                    "final_url": "https://hitcounterserver.herokuapp.com/count",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "jli/processing-sketches::cellauto": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "manifest.json",
+                    "loader_api": "html:href",
+                    "detection_method": "html_attribute",
+                    "source_type": "html",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/jli__processing-sketches/cellauto/index.html",
+                    "html_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/jli__processing-sketches/cellauto/index.html",
+                    "html_tag": "link",
+                    "html_attribute": "href",
+                    "line": 5,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "ltejedor/agario-clone-for-hoboken::demos/08_echonestBeatPitch": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "../../music/Alaclair_Ensemble_-_Twit_JournalisT.json",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ltejedor__agario-clone-for-hoboken/demos/08_echonestBeatPitch/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ltejedor__agario-clone-for-hoboken/demos/08_echonestBeatPitch/sketch.js",
+                    "line": 64,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "ltejedor/agario-clone-for-hoboken::demos/08_echonestPitchSegment": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "../../music/Peter_Johnston_-_La_ere_gymnopedie.json",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ltejedor__agario-clone-for-hoboken/demos/08_echonestPitchSegment/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ltejedor__agario-clone-for-hoboken/demos/08_echonestPitchSegment/sketch.js",
+                    "line": 55,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "lydiajessup/creative-coding::ICM_MADNESS_collab": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "https://www.omdbapi.com/?i=",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/lydiajessup__creative-coding/ICM_MADNESS_collab/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/lydiajessup__creative-coding/ICM_MADNESS_collab/sketch.js",
+                    "line": 23,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "https://www.omdbapi.com/?i=",
+                    "redirected": false,
+                    "error": null
+                },
+                {
+                    "reference": "https://www.omdbapi.com/?i=",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/lydiajessup__creative-coding/ICM_MADNESS_collab/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/lydiajessup__creative-coding/ICM_MADNESS_collab/sketch.js",
+                    "line": 36,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "https://www.omdbapi.com/?i=",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "masterTwig-0902/0418_work_HW03::.": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "data.json",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/masterTwig-0902__0418_work_HW03/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/masterTwig-0902__0418_work_HW03/sketch.js",
+                    "line": 7,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "ml3907/ml3907.github.io::A3/text1": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "https://api.nytimes.com/svc/topstories/v2/home.json",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ml3907__ml3907.github.io/A3/text1/text1.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ml3907__ml3907.github.io/A3/text1/text1.js",
+                    "line": 9,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "https://api.nytimes.com/svc/topstories/v2/home.json",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "ml3907/ml3907.github.io::A3/text2": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "https://api.nytimes.com/svc/topstories/v2/home.json",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ml3907__ml3907.github.io/A3/text2/text2.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ml3907__ml3907.github.io/A3/text2/text2.js",
+                    "line": 24,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "https://api.nytimes.com/svc/topstories/v2/home.json",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "ml3907/ml3907.github.io::A3/text3": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "https://api.nytimes.com/svc/topstories/v2/home.json",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ml3907__ml3907.github.io/A3/text3/text3.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ml3907__ml3907.github.io/A3/text3/text3.js",
+                    "line": 11,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "https://api.nytimes.com/svc/topstories/v2/home.json",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "ProcessingLAB-Wits/Processing_DataArt::Week_8/NotComplete/7_4_JSON_basics/WeatherExample": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "http://api.openweathermap.org/data/2.5/weather?q=Johannesburg&units=metric",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ProcessingLAB-Wits__Processing_DataArt/Week_8/NotComplete/7_4_JSON_basics/WeatherExample/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/ProcessingLAB-Wits__Processing_DataArt/Week_8/NotComplete/7_4_JSON_basics/WeatherExample/sketch.js",
+                    "line": 13,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "http",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "http://api.openweathermap.org/data/2.5/weather?q=Johannesburg&units=metric",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "QigaoW/QigaoWang.github.io::A3.2": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "https://api.nytimes.com/svc/topstories/v2/home.json",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/QigaoW__QigaoWang.github.io/A3.2/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/QigaoW__QigaoWang.github.io/A3.2/sketch.js",
+                    "line": 21,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "https://api.nytimes.com/svc/topstories/v2/home.json",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "QigaoW/QigaoWang.github.io::A3a": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "https://api.nytimes.com/svc/topstories/v2/home.json",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/QigaoW__QigaoWang.github.io/A3a/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/QigaoW__QigaoWang.github.io/A3a/sketch.js",
+                    "line": 9,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "https://api.nytimes.com/svc/topstories/v2/home.json",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "Raafat9966/classRoom-Exercises::mongoDB-exercises/intro-fullstack-js/Visualize_MongoDB-P5js": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "https://webhooks.mongodb-realm.com/api/client/v2.0/app/visualizingdb-mtilm/service/realm-exercise/incoming_webhook/webhook0",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/Raafat9966__classRoom-Exercises/mongoDB-exercises/intro-fullstack-js/Visualize_MongoDB-P5js/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/Raafat9966__classRoom-Exercises/mongoDB-exercises/intro-fullstack-js/Visualize_MongoDB-P5js/sketch.js",
+                    "line": 22,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 410,
+                    "final_url": "https://webhooks.mongodb-realm.com/api/client/v2.0/app/visualizingdb-mtilm/service/realm-exercise/incoming_webhook/webhook0",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "rpcarvalho/rpcarvalho.github.io::projects/deUke": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "https://crossorigin.me/http://ukulele-chords.com/get?ak=ad7602154409b93139d5624378066908&r=C&typ=sus2",
+                    "loader_api": "loadXML",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/rpcarvalho__rpcarvalho.github.io/projects/deUke/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/rpcarvalho__rpcarvalho.github.io/projects/deUke/sketch.js",
+                    "line": 10,
+                    "category": "dataset",
+                    "extension": ".xml",
+                    "format": "XML",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "https://crossorigin.me/http://ukulele-chords.com/get?ak=ad7602154409b93139d5624378066908&r=C&typ=sus2",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "smohiudd/Mapping-Pies::.": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "https://data.calgary.ca/resource/qfna-5kbg.json?$select=name,comm_code,sing_famly,duplex,multi_plex,apartment,town_house,manuf_home,conv_struc,comunl_hse",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/smohiudd__Mapping-Pies/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/smohiudd__Mapping-Pies/sketch.js",
+                    "line": 18,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 404,
+                    "final_url": "https://data.calgary.ca/resource/qfna-5kbg.json?$select=name,comm_code,sing_famly,duplex,multi_plex,apartment,town_house,manuf_home,conv_struc,comunl_hse",
+                    "redirected": false,
+                    "error": null
+                },
+                {
+                    "reference": "https://data.calgary.ca/resource/kzbm-mn66.json?$select=name,comm_code,location",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/smohiudd__Mapping-Pies/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/smohiudd__Mapping-Pies/sketch.js",
+                    "line": 19,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 400,
+                    "final_url": "https://data.calgary.ca/resource/kzbm-mn66.json?$select=name,comm_code,location",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "starzonmyarmz/timer-viz::static/viz/2": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "/api/timers",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/starzonmyarmz__timer-viz/static/viz/2/2.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/starzonmyarmz__timer-viz/static/viz/2/2.js",
+                    "line": 42,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "starzonmyarmz/timer-viz::static/viz/3": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "/api/timers",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/starzonmyarmz__timer-viz/static/viz/3/3.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/starzonmyarmz__timer-viz/static/viz/3/3.js",
+                    "line": 47,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "starzonmyarmz/timer-viz::static/viz/4": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "/api/timers/500/1098242",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/starzonmyarmz__timer-viz/static/viz/4/4.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/starzonmyarmz__timer-viz/static/viz/4/4.js",
+                    "line": 26,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "starzonmyarmz/timer-viz::static/viz/5": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "/api/timers/100/1098242",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/starzonmyarmz__timer-viz/static/viz/5/5.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/starzonmyarmz__timer-viz/static/viz/5/5.js",
+                    "line": 26,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "starzonmyarmz/timer-viz::static/viz/6": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "/api/timers/25/883666",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/starzonmyarmz__timer-viz/static/viz/6/6.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/starzonmyarmz__timer-viz/static/viz/6/6.js",
+                    "line": 22,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "starzonmyarmz/timer-viz::static/viz/7": {
+            "missing_local_data_sources": [
+                {
+                    "reference": "/api/timers/25/883666",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/starzonmyarmz__timer-viz/static/viz/7/7.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/starzonmyarmz__timer-viz/static/viz/7/7.js",
+                    "line": 32,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "exists": false,
+                    "resolved_path": null,
+                    "resolution_method": null
+                }
+            ],
+            "unavailable_remote_data_sources": []
+        },
+        "thedrifter426/dat405-drift::Assignment 2": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "https://www.googleapis.com/youtube/v3/playlistItems",
+                    "loader_api": "$.getJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/thedrifter426__dat405-drift/Assignment 2/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/thedrifter426__dat405-drift/Assignment 2/sketch.js",
+                    "line": 127,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 403,
+                    "final_url": "https://www.googleapis.com/youtube/v3/playlistItems",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "Wennnjunnnn/CCLab::WeatherApp": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "https://api.openweathermap.org/data/2.5/weather?q=Shenzhen&APPID=4ebd5047269be6133861dde91cf7b702&units=metric",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/Wennnjunnnn__CCLab/WeatherApp/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/Wennnjunnnn__CCLab/WeatherApp/sketch.js",
+                    "line": 39,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "https",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "https://api.openweathermap.org/data/2.5/weather?q=Shenzhen&APPID=4ebd5047269be6133861dde91cf7b702&units=metric",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        },
+        "wjmoner/weather-example-gfx-p5js::.": {
+            "missing_local_data_sources": [],
+            "unavailable_remote_data_sources": [
+                {
+                    "reference": "http://api.openweathermap.org/data/2.5/weather?q=Elon,NC&units=imperial&appid=42396ff80468c90bdbb51462e8b1d530",
+                    "loader_api": "loadJSON",
+                    "detection_method": "ast",
+                    "source_type": "javascript",
+                    "source_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/wjmoner__weather-example-gfx-p5js/sketch.js",
+                    "js_file": "/part/01/Tmp/spark/unique_path/another_1_percent/FINAL_DATASET/wjmoner__weather-example-gfx-p5js/sketch.js",
+                    "line": 7,
+                    "category": "dataset",
+                    "extension": ".json",
+                    "format": "JSON",
+                    "protocol": "http",
+                    "availability": "unavailable",
+                    "http_status": 401,
+                    "final_url": "http://api.openweathermap.org/data/2.5/weather?q=Elon,NC&units=imperial&appid=42396ff80468c90bdbb51462e8b1d530",
+                    "redirected": false,
+                    "error": null
+                }
+            ]
+        }
+    }
+}
