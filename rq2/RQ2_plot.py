@@ -16,10 +16,10 @@ COLOR_REMOTE = "#337CA0"
 COLOR_CATEGORY_TOTAL = "#FF0000"
 
 # input files
-MISSING_DIR = Path("data/missing_dependencies")
+MISSING_DIR = Path("../data")
 LIBRARIES_FILE = MISSING_DIR / "library_availability_projects.json"
 DIGITAL_ASSETS_FILE = MISSING_DIR / "digital_assets_problem_projects.json"
-API_ENDPOINTS_FILE = MISSING_DIR / "projects_with_inaccessible_web_endpoints.json"
+API_ENDPOINTS_FILE = MISSING_DIR / "projects_with_inaccessible_api_endpoints.json"
 DATA_SOURCES_FILE = MISSING_DIR / "projects_with_missing_data_sources.json"
 
 # category data
