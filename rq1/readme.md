@@ -7,7 +7,7 @@ The `data` folder includes:
 The following list of files contain the results from the empirical anaylis for each dependency category separated in an individual file:
 
 - `output_ai_ml.json`
--`output_data_sources_and_persistence_ast`
+- `output_data_sources_and_persistence_ast`
 - `output_digital_assets_ast.json`
 - `output_interactions_ast.json`
 - `output_internet_access_requirement.json`
